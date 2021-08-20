@@ -1118,6 +1118,8 @@ ul.items-numbers li h5 {
 }
 .pilar-hl .bg.bg-top img {
   min-height: 180px;
+  height: calc(100% + 2px);
+  margin-bottom:-2px;
 }
 .pilar-hl .bg.bg-bottom img {
   min-height: 220px;

@@ -31,7 +31,7 @@ $(document).ready(function () {
     });
 
 });
-$('#loader').hide();
+//$('#loader').hide();
 
 $(window).on("load", function() {
 
@@ -62,42 +62,49 @@ $(window).on("load", function() {
 
     setTimeout(function(){
         ScrollReveal().reveal('.reveal', {
-            interval: 200,
+            interval: 150,
             delay: 500,
-            viewFactor: 0.3
+            viewFactor: 0.3,
+            mobile: false
         });
 
         ScrollReveal().reveal('.r-scale-in', {
             duration: 750,
-            scale: 0.75
+            scale: 0.75,
+            mobile: false
         });
         ScrollReveal().reveal('.r-scale-out', {
             duration: 750,
-            scale: 1.25
+            scale: 1.25,
+            mobile: false
         });
         ScrollReveal().reveal('.r-top', {
             easing: 'ease-in-out',
             duration: 750,
             origin: 'top',
-            distance: '50px'
+            distance: '50px',
+            mobile: false
         });
         ScrollReveal().reveal('.r-bottom', {
             easing: 'ease-in-out',
             duration: 750,
             origin: 'bottom',
-            distance: '50px'
+            distance: '50px',
+            mobile: false
         });
         ScrollReveal().reveal('.r-right', {
             easing: 'ease-in-out',
             duration: 750,
             origin: 'right',
-            distance: '50px'
+            distance: '50px',
+            mobile: false
         });
         ScrollReveal().reveal('.r-left', {
             easing: 'ease-in-out',
             duration: 750,
             origin: 'left',
-            distance: '50px'
+            distance: '50px',
+            mobile: false
         });
         ScrollReveal().reveal('.r-d150', {
             delay: 150
