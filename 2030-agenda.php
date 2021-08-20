@@ -90,26 +90,26 @@ include('header.php');
                         <div class="hl-item">
                             <img src="assets/images/pilar-<?php echo $page_class ?>-icon-hl-01.svg" alt="">
                             <div class="content">
-                                <p>The UNSDG:Learn Platform proving a smart gateway to SDG learning offered by UN agencies, Academia and other Partners has reached 69,951 users by end 2020. Strong of 59 Partners, it featured 280 courses and 151 microlearning. 40% of all the Platform survey respondents indicated they were associated with vulnerable groups. 53% of those who took a learning reported a change or the application of good practice as a result.</p>
+                                <p>The UNSDG:Learn Platform proving a <strong>smart gateway to SDG learning offered by UN agencies, Academia and other Partners</strong> has <strong>reached 69,951 users by end 2020.</strong> Strong of 59 Partners, it <strong>featured 280 courses and 151 microlearning.</strong> 40% of all the Platform survey respondents indicated they were associated with vulnerable groups. 53% of those who took a learning reported a change or the application of good practice as a result.</p>
                             </div>
                         </div>
                         <div class="hl-item">
                             <img src="assets/images/pilar-<?php echo $page_class ?>-icon-hl-02.svg" alt="">
                             <div class="content">
-                                <p>990 learners enrolled in the 2030 Agenda introductory course and the joint UNDESA-UNITAR course on stakeholder engagement in 2020. 98% of these participants indicated that, as a result, they now have an increased awareness of the key concepts and issues that SDGs address, as well as of the approaches to ensuring an inclusive and robust stakeholder engagement in the review and the implementation of the 2030 Agenda. In addition, around 400 individuals accessed the SDG toolkits with a focus on mainstreaming the SDGs across policies in an integrated manner.</p>
+                                <p><strong>990 learners enrolled in the 2030 Agenda introductory course and the joint UNDESA-UNITAR course on stakeholder engagement in 2020.</strong> 98% of these participants indicated that, as a result, they now have an <strong>increased awareness of the key concepts and issues that SDGs address,</strong> as well as of the <strong>approaches to ensuring an inclusive and robust stakeholder engagement</strong> in the review and the implementation of the 2030 Agenda. In addition, around <strong>400 individuals accessed the SDG toolkits</strong> with a focus on mainstreaming the SDGs across policies in an integrated manner.</p>
                             </div>
                         </div>
                         <div class="hl-item">
                             <img src="assets/images/pilar-<?php echo $page_class ?>-icon-hl-03.svg" alt="">
                             <div class="content">
-                                <p>779 learners benefitted from the data-related courses. This includes 601 learners who followed the course outlining the key principles of data governance for monitoring the SDGs, including UN Fundamental Principles of Official Statistics, and good practices in statistical legislation and planning, governance of National Statistical Systems, user engagement and new data partnerships. 98% of the participants have indicated an increased awareness of data governance.</p>
-                                <p>178 additional learners took the course designed specifically to help Asia-Pacific Small Island Developing States to strengthen their monitoring systems in support of the SDGs.</p>
+                                <p><strong>779 learners benefitted from the data-related courses.</strong> This includes <strong>601 learners who followed the course outlining the key principles of data governance for monitoring the SDGs,</strong> including UN Fundamental Principles of Official Statistics, and good practices in statistical legislation and planning, governance of National Statistical Systems, user engagement and new data partnerships. 98% of the participants have indicated an <strong>increased awareness of data governance.</strong></p>
+                                <p><strong>178 additional learners took the course designed specifically to help Asia-Pacific Small Island Developing States to strengthen their monitoring systems in support of the SDGs.</strong></p>
                             </div>
                         </div>
                         <div class="hl-item">
                             <img src="assets/images/pilar-<?php echo $page_class ?>-icon-hl-04.svg" alt="">
                             <div class="content">
-                                <p>The upgraded version of the StaTact, a short-term statistical planning tool, had been presented to 36 countries during online workshops for Latin American, African and Asian regions. A national pilot was conducted in collaboration with the Philippine Statistics Authority in December 2020. Designed earlier with a view to enabling National Statistical Systems (NSSs) to rapidly respond to most urgent SDG data gaps, the tool’s emphasis on short-term, tactical approaches to planning has further increased its relevance in time of the COVID-19 pandemic as many NSSs had to adjust their ways of working and respond to new urgent data needs.</p>
+                                <p><strong>The upgraded version of the StaTact</strong>, a short-term statistical planning tool, had been <strong>presented to 36 countries during online workshops for Latin American, African and Asian regions.</strong> A national pilot was conducted in collaboration with the Philippine Statistics Authority in December 2020. <strong>Designed earlier with a view to enabling National Statistical Systems (NSSs) to rapidly respond to most urgent SDG data gaps,</strong> the tool’s emphasis on short-term, tactical approaches to planning has further <strong>increased its relevance in time of the COVID-19 pandemic</strong> as many NSSs had to adjust their ways of working and respond to new urgent data needs.</p>
                             </div>
                         </div>
                     </div>

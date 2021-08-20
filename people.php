@@ -98,37 +98,37 @@ include('header.php');
                         <div class="hl-item">
                             <img src="assets/images/pilar-<?php echo $page_class ?>-icon-hl-01.svg" alt="">
                             <div class="content">
-                                <p>The CIFAL Global Network reached 89,060 beneficiaries through 136 learning and public awareness activities in 2020, covering a wide range of thematic areas related to governance and urban development, economic development and social inclusion, environmental sustainability and the 2030 Agenda. Increasing gender balance in terms of outreach has been an important goal. In 2020 alone, 68% of the total number of beneficiaries were women.</p>
+                                <p>The <strong>CIFAL Global Network</strong> reached <strong>89,060 beneficiaries through 136 learning and public awareness activities in 2020,</strong> covering a wide range of <strong>thematic areas related to governance and urban development, economic development and social inclusion, environmental sustainability and the 2030 Agenda.</strong> Increasing gender balance in terms of outreach has been an important goal. In 2020 alone, <strong>68% of the total number of beneficiaries were women.</strong></p>
                             </div>
                         </div>
                         <div class="hl-item">
                             <img src="assets/images/pilar-<?php echo $page_class ?>-icon-hl-02.svg" alt="">
                             <div class="content">
-                                <p>30 learning events on road safety related topics took place with a global outreach of 6,630 beneficiaries. 687 law enforcement officers and officials from national road safety agencies were trained with the aim to develop a skill set on implementing high-visibility enforcement campaigns to help reduce alcohol-related fatalities and crashes while 3,719 beneficiaries were provided with practical tools to conduct road assessments.</p>
+                                <p><strong>30 learning events on road safety</strong> related topics took place with a <strong>global outreach of 6,630 beneficiaries. 687 law enforcement officers and officials from national road safety agencies were trained</strong> with the aim <strong>to develop a skill set on implementing high-visibility enforcement campaigns to help reduce alcohol-related fatalities and crashes</strong> while <strong>3,719 beneficiaries were provided with practical tools to conduct road assessments.</strong></p>
                             </div>
                         </div>
                         <div class="hl-item">
                             <img src="assets/images/pilar-<?php echo $page_class ?>-icon-hl-03.svg" alt="">
                             <div class="content">
-                                <p>We launched the e-learning course “Entrepreneurship for Migrants and Refugees” in January 2020. Over 1,150 government officials, private sector representatives, and civil society leaders from 97 countries around the world participated in the course, which is currently available in English and Spanish - with scheduled versions in Arabic and French to debut in 2021.</p>
+                                <p>We <strong>launched the e-learning course “Entrepreneurship for Migrants and Refugees”</strong> in January 2020. Over <strong>1,150 government officials, private sector representatives, and civil society leaders from 97 countries around the world participated in the course,</strong> which is currently <strong>available in English and Spanish</strong> - with scheduled versions in Arabic and French to debut in 2021.</p>
                             </div>
                         </div>
                         <div class="hl-item">
                             <img src="assets/images/pilar-<?php echo $page_class ?>-icon-hl-04.svg" alt="">
                             <div class="content">
-                                <p>The official publication of the National Surgical Obstetric Anaesthesia Plan (NSOAP) Manual was launched together with the Harvard Program in Global Surgery and Social Change during a special virtual roundtable event in September 2020. The NSOAP Manual provides a framework for the development of plans and policies to improve the provision of safe surgery, obstetric and anaesthesia care at a national level.</p>
+                                <p>The <strong>official publication of the National Surgical Obstetric Anaesthesia Plan (NSOAP) Manual</strong> was launched together with the Harvard Program in Global Surgery and Social Change during a special virtual roundtable event in September 2020. <strong>The NSOAP Manual provides a framework for the development of plans and policies to improve the provision of safe surgery, obstetric and anaesthesia care at a national level.</strong></p>
                             </div>
                         </div>
                         <div class="hl-item">
                             <img src="assets/images/pilar-<?php echo $page_class ?>-icon-hl-05.svg" alt="">
                             <div class="content">
-                                <p>200 officials and professionals were trained via the “Marine Safety and Fisheries Protection & Collaborative Leadership Programme” hosted under the Technical Capacity Development Project in Nigeria's Oil and Gas Sector & Protection of Marine Resources.</p>
+                                <p><strong>200 officials and professionals were trained via the “Marine Safety and Fisheries Protection & Collaborative Leadership Programme”</strong> hosted under the Technical Capacity Development Project in Nigeria's Oil and Gas Sector & Protection of Marine Resources.</p>
                             </div>
                         </div>
                         <div class="hl-item">
                             <img src="assets/images/pilar-<?php echo $page_class ?>-icon-hl-06.svg" alt="">
                             <div class="content">
-                                <p>Together with Total E&P Nigeria Staff Multipurpose Cooperative Society Limited, we successfully implemented the Pilot Plastic Management and Recycling Project for TEPNG Host Communities in Nigeria.</p>
+                                <p>Together with Total E&P Nigeria Staff Multipurpose Cooperative Society Limited, we successfully <strong>implemented the Pilot Plastic Management and Recycling Project for TEPNG Host Communities in Nigeria.</strong></p>
                             </div>
                         </div>
                     </div>

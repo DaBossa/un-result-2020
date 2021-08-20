@@ -96,8 +96,8 @@ include('header.php');
                         <div class="hl-item">
                             <img src="assets/images/pilar-<?php echo $page_class ?>-icon-hl-01.svg" alt="">
                             <div class="content">
-                                <p>The digital nature of Remote Sensing allowed our mapping services to carry out activities as usual, despite the pandemic. Our activities kept on growing as we delivered 1,136 products and services based on over 300 analyses to partners in 59 countries, predominantly located on Sub-Saharan and Northern Africa & Western and South-Eastern Asia.</p>
-                                <p>Much of the data produced was used to assess exposure to and impact of hazards, but also to generate potential flood scenarios, for refugee camp planning, assess damages caused by crisis, conduct sectoral analyses and more. The mapping activities covered therefore several themes of the 2030 Agenda, in particular Innovation, Sustainable Cities and Communities, Climate Action and Peace.</p>
+                                <p>The digital nature of Remote Sensing allowed our mapping services to carry out activities as usual, despite the pandemic. Our activities kept on growing as we <strong>delivered 1,136 products and services based on over 300 analyses to partners in 59 countries,</strong> predominantly located on <strong>Sub-Saharan</strong> and <strong>Northern Africa</strong> & <strong>Western and South-Eastern Asia.</strong></p>
+                                <p>Much of the data <strong>produced was used to assess exposure to and impact of hazards,</strong> but also to <strong>generate potential flood scenarios</strong>, for <strong>refugee camp planning, assess damages caused by crisis, conduct sectoral analyses</strong> and more. The mapping activities covered therefore several themes of the 2030 Agenda, in particular <strong>Innovation, Sustainable Cities and Communities, Climate Action and Peace.</strong></p>
                             </div>
                         </div>
                         <div class="hl-item">
@@ -110,14 +110,14 @@ include('header.php');
                         <div class="hl-item align-items-center">
                             <img src="assets/images/pilar-<?php echo $page_class ?>-icon-hl-03.svg" alt="">
                             <div class="content">
-                                <p>2020 also marked the introduction of the UNOSAT Flood AI model into our operations, thereby accelerating and automating our mapping efforts for the benefit of national disaster management authorities.</p>
+                                <p>2020 also marked the <strong>introduction of the UNOSAT Flood AI model into our operations</strong>, thereby <strong>accelerating and automating our mapping efforts</strong> for the <strong>benefit of national disaster management authorities.</strong></p>
                             </div>
                         </div>
                         <div class="hl-item">
                             <img src="assets/images/pilar-<?php echo $page_class ?>-icon-hl-04.svg" alt="">
                             <div class="content">
-                                <p>We designed and implemented several capacity development activities, increasing use of distance learning solutions with exclusively online and blended delivery methods. All our trainings delivered online included live webinars and workshops to encourage participants’ engagement and ensure the highest impact and quality of delivery.</p>
-                                <p>The beneficiaries were trained on Geospatial Information Technology (GIT) applications for a wide range of themes, such as Disaster Risk Reduction (DRR), risk financing, climate resilience, emergency response, agriculture, Monitoring & Evaluation (M&E), peace and security, investigations & respect of International Humanitarian Law (IHL) monitoring. These activities improved the capacities of beneficiaries to use geospatial tools and data, and support decision making with satellite imagery-derived evidence.</p>
+                                <p>We <strong>designed and implemented several capacity development activities,</strong> increasing use of distance learning solutions with exclusively online and blended delivery methods. All our trainings delivered online included <strong>live webinars and workshops</strong> to encourage participants’ engagement and ensure the highest impact and quality of delivery.</p>
+                                <p>The beneficiaries were <strong>trained on Geospatial Information Technology (GIT) applications</strong> for a wide range of themes, such as <strong>Disaster Risk Reduction (DRR), risk financing, climate resilience, emergency response, agriculture, Monitoring & Evaluation (M&E), peace and security, investigations & respect of International Humanitarian Law (IHL) monitoring.</strong> These activities improved the capacities of beneficiaries to use geospatial tools and data, and support decision making with satellite imagery-derived evidence.</p>
                             </div>
                         </div>
                     </div>

@@ -272,8 +272,8 @@ body.bg-planet .depoimento.bg-light::before {
 body.bg-prosperity .depoimento.bg-light::before {
   background-color: #F09300!important;
 }
-.bg-multilateral-,
-body.bg-multilateral .depoimento.bg-light::before {
+.bg-multilateral-diplomacy,
+body.bg-multilateral-diplomacy .depoimento.bg-light::before {
   background-color: #B81371!important;
 }
 .bg-ncd,
@@ -647,6 +647,7 @@ body.bg-partnerships .depoimento.bg-light::before {
   .home-pilar:nth-child(odd):before {
     transform: rotateY(180deg);
   }
+
   .home-pilar.bg-partnerships::before {
     transform: rotateX(180deg);
   }
@@ -656,7 +657,7 @@ body.bg-partnerships .depoimento.bg-light::before {
 }
 @media (min-width: 992px) {
   .home-pilar::before {
-    background-size: auto 200px;
+    background-size: auto 300px;
     transform: rotate(180deg);
   }
   .home-pilar:nth-child(odd):before {
@@ -665,6 +666,9 @@ body.bg-partnerships .depoimento.bg-light::before {
   .home-pilar.bg-partnerships::before {
     transform: rotate(0deg);
     background-size: auto 390px;
+  }
+  .home-pilar.bg-unosat::before {
+    background-position: 100% 140%;
   }
   .depoimento::before {
     transform: rotateX(180deg);
@@ -680,6 +684,9 @@ body.bg-partnerships .depoimento.bg-light::before {
   .home-pilar::before,
   .home-pilar.bg-partnerships::before {
     background-size: auto 90%;
+  }
+  .home-pilar.bg-unosat::before {
+    background-position: 100% 300%;
   }
   .depoimento::before {
     transform: rotateX(180deg);

@@ -95,37 +95,37 @@ include('header.php');
                         <div class="hl-item">
                             <img src="assets/images/pilar-<?php echo $page_class ?>-icon-hl-01.svg" alt="">
                             <div class="content">
-                                <p>We converted most of our face-to-face workshops into e-workshops and online courses due to the travel restrictions during the COVID-19 pandemic, which allowed us to reach broader audiences of diplomats and government officials around the world. Our online portfolio includes Online Certificates and Diplomas on the subjects of Essential Professional Skills; Multilateral Diplomacy; International Law in the 21st Century (Executive Level); Women's Leadership; and the UN Human Rights Council Training Programme.</p>
+                                <p>We <strong>converted most of our face-to-face workshops into e-workshops and online courses</strong> due to the travel restrictions during the COVID-19 pandemic, which allowed us <strong>to reach broader audiences of diplomats and government officials around the world.</strong> Our online portfolio includes <strong>Online Certificates and Diplomas on the subjects of Essential Professional Skills; Multilateral Diplomacy; International Law in the 21st Century (Executive Level); Women's Leadership;</strong> and the <strong>UN Human Rights Council Training Programme.</strong></p>
                             </div>
                         </div>
                         <div class="hl-item">
                             <img src="assets/images/pilar-<?php echo $page_class ?>-icon-hl-02.svg" alt="">
                             <div class="content">
-                                <p>We launched three new Master's programmes: Master in Human Rights and Diplomacy with the University of Stirling in Scotland; Master in International Affairs and Diplomacy with École supérieure des affaires Business School in Beirut; and Master in Development Studies and Diplomacy (as well as an online certificate) with the University for Peace.</p>
+                                <p>We <strong>launched three new Master's programmes: Master in Human Rights and Diplomacy</strong> with the University of Stirling in Scotland; Master in International Affairs and Diplomacy with École supérieure des affaires Business School in Beirut; and <strong>Master in Development Studies and Diplomacy (as well as an online certificate)</strong> with the University for Peace.</p>
                             </div>
                         </div>
                         <div class="hl-item">
                             <img src="assets/images/pilar-<?php echo $page_class ?>-icon-hl-03.svg" alt="">
                             <div class="content">
-                                <p>We developed customized on-line training solutions for Ministries of Foreign Affairs across the world, including Bhutan, Kenya, Sri Lanka, Marshall Islands, Qatar, and Myanmar on such topics as Digital Diplomacy, Cyber Security, Environmental Diplomacy and Science Diplomacy.</p>
+                                <p>We developed customized <strong>on-line training solutions for Ministries of Foreign Affairs across the world,</strong> including Bhutan, Kenya, Sri Lanka, Marshall Islands, Qatar, and Myanmar on such topics as <strong>Digital Diplomacy, Cyber Security, Environmental Diplomacy and Science Diplomacy.</strong></p>
                             </div>
                         </div>
                         <div class="hl-item">
                             <img src="assets/images/pilar-<?php echo $page_class ?>-icon-hl-04.svg" alt="">
                             <div class="content">
-                                <p>We developed the briefing for New Members of the Security Council, Ireland, India, Norway, Mexico and Kenya. All of the elected members were trained separately, reaching a total of 302 beneficiaries from their delegations. We implemented and institutionalized, as a new core programme, the training for the new members of the Peace Building Commission with an expert and ambassadorial level, and more than 70 attendees including Permanent Representatives, United Nations Under Secretary-General, Assistant Secretary-General and experts from the missions participated in the training in 2020.</p>
+                                <p>We developed the <strong>briefing for New Members of the Security Council,</strong> Ireland, India, Norway, Mexico and Kenya. All of the <strong>elected members were trained separately,</strong> reaching a total of <strong>302 beneficiaries from their delegations.</strong> We implemented and institutionalized, as a new core programme, the <strong>training for the new members of the Peace Building Commission</strong> with an expert and ambassadorial level, and <strong>more than 70 attendees including Permanent Representatives, United Nations Under Secretary-General, Assistant Secretary-General and experts</strong> from the missions participated in the training in 2020.</p>
                             </div>
                         </div>
                         <div class="hl-item">
                             <img src="assets/images/pilar-<?php echo $page_class ?>-icon-hl-05.svg" alt="">
                             <div class="content">
-                                <p>We hosted five modules of the 2020 training series on the Quadrennial Comprehensive Policy Review, which was attended by the Deputy Secretary-General. More than 600 participants gained knowledge on the overviews of the funding of the UN’s operational activities for development, including current trends and issues, as well as progress and challenges on the implementation of related mandates. Modules paid special attention to the financing of the SDGs and discussed the funding of the UN operational activities and the effectiveness of the current funding and financial structure.</p>
+                                <p>We hosted <strong>five modules of the 2020 training series on the Quadrennial Comprehensive Policy Review,</strong> which was attended by the Deputy Secretary-General. <strong>More than 600 participants gained knowledge on the overviews of the funding of the UN’s operational activities for development, including current trends and issues, as well as progress and challenges on the implementation of related mandates.</strong> Modules paid special attention to the financing <strong>of the SDGs</strong> and discussed the <strong>funding of the UN operational activities</strong> and the <strong>effectiveness of the current funding and financial structure.</strong></p>
                             </div>
                         </div>
                         <div class="hl-item">
                             <img src="assets/images/pilar-<?php echo $page_class ?>-icon-hl-06.svg" alt="">
                             <div class="content">
-                                <p>We also continued our partnership with top tier academics from Columbia Law School, developing both Spring and Fall Series benefiting more than 600 participants on the fields of conflict resolution, mediation and negotiation. The series is part of ‘Levelling the Playing Field’ programme, which focuses on the development of skills and knowledge of LDCs.</p>
+                                <p>We also continued our partnership with top tier academics from Columbia Law School, developing both <strong>Spring and Fall Series</strong> benefiting <strong>more than 600 participants on the fields of conflict resolution, mediation and negotiation.</strong> The series is part of ‘Levelling the Playing Field’ programme, which focuses on the <strong>development of skills and knowledge of LDCs.</strong></p>
                             </div>
                         </div>
                     </div>

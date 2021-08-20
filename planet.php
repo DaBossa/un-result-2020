@@ -96,37 +96,37 @@ include('header.php');
                         <div class="hl-item">
                             <img src="assets/images/pilar-<?php echo $page_class ?>-icon-hl-01.svg" alt="">
                             <div class="content">
-                                <p>September 2020 saw the One UN Climate Change Learning Partnership (UN CC:Learn) – a global partnership that supports countries in the design and implementation of systematic, recurrent and results-oriented climate change learning – issue its 100,000th certificate of completion. The partnership currently includes 36 multilateral organizations and is active in more than 30 countries globally to promote global climate change literacy.</p>
+                                <p>September 2020 saw the <strong>One UN Climate Change Learning Partnership (UN CC:Learn)</strong> – a global partnership that supports countries in the design and implementation of systematic, recurrent and results-oriented climate change learning – <strong>issue its 100,000th certificate of completion.</strong> The partnership currently includes <strong>36 multilateral organizations and is active in more than 30 countries globally to promote global climate change literacy.</strong></p>
                             </div>
                         </div>
                         <div class="hl-item">
                             <img src="assets/images/pilar-<?php echo $page_class ?>-icon-hl-02.svg" alt="">
                             <div class="content">
-                                <p>We supported countries in developing and launching climate change learning strategies including in Kenya, Kyrgyzstan, Malawi, Zambia and Zimbabwe. The strategies provide the culmination of a national debate on how to elevate the importance of education and training as a key means of addressing climate change.</p>
+                                <p>We supported countries in <strong>developing and launching climate change learning strategies</strong> including in <strong>Kenya, Kyrgyzstan, Malawi, Zambia and Zimbabwe.</strong> The strategies provide the culmination of a <strong>national debate on how to elevate the importance of education and training as a key means of addressing climate change.</strong></p>
                             </div>
                         </div>
                         <div class="hl-item">
                             <img src="assets/images/pilar-<?php echo $page_class ?>-icon-hl-03.svg" alt="">
                             <div class="content">
-                                <p>Half of all Danone employees participated in the UNITAR-Danone course on Sustainable Diet, develop to support Danone’s “One Planet One Health” approach linked to our sustainable lifestyles programme, which works with private sector companies to reach one million learners by 2025.</p>
+                                <p><strong>Half of all Danone employees participated in the UNITAR-Danone course on Sustainable Diet,</strong> develop to support Danone’s “One Planet One Health” approach linked to our sustainable lifestyles programme, which works with private sector companies to <strong>reach one million learners by 2025.</strong></p>
                             </div>
                         </div>
                         <div class="hl-item">
                             <img src="assets/images/pilar-<?php echo $page_class ?>-icon-hl-04.svg" alt="">
                             <div class="content">
-                                <p>Due to the severe restrictions in travelling, we developed and launched the Persistent Organic Pollutants (PCB) Learn website, which provides practical training to countries on management of “PCBs”.</p>
+                                <p>Due to the severe restrictions in travelling, <strong>we developed and launched the Persistent Organic Pollutants (PCB) Learn website,</strong> which <strong>provides practical training to countries on management of “PCBs”.</strong></p>
                             </div>
                         </div>
                         <div class="hl-item">
                             <img src="assets/images/pilar-<?php echo $page_class ?>-icon-hl-05.svg" alt="">
                             <div class="content">
-                                <p>We supported the governments of Sierra Leone and Democratic Republic of Congo in the delivery of the final versions of the Minamata Initial Assessment and the National Action Plan on Artisanal Small Scale Gold Mining. This is the first time the countries have conducted such assessments on mercury emissions and use. As part of the project implementation, more than 200 people were trained in both countries.</p>
+                                <p>We <strong>supported the governments of Sierra Leone and Democratic Republic of Congo</strong> in the delivery of the final versions of the <strong>Minamata Initial Assessment and the National Action Plan on Artisanal Small Scale Gold Mining.</strong> This is the first time the countries have conducted such assessments on mercury emissions and use. As part of the project implementation, <strong>more than 200 people were trained in both countries.</strong></p>
                             </div>
                         </div>
                         <div class="hl-item">
                             <img src="assets/images/pilar-<?php echo $page_class ?>-icon-hl-06.svg" alt="">
                             <div class="content">
-                                <p>We launched the Global E-waste Monitor 2020 - co-published by UNITAR/UNU, ITU and the International Solid Waste Association - capturing more than 1,400 online media hits in 34 languages in more than 80 countries from 1,200 different news sites worldwide.</p>
+                                <p>We <strong>launched the Global E-waste Monitor 2020</strong> - co-published by UNITAR/UNU, ITU and the International Solid Waste Association - capturing more than <strong>1,400 online media hits</strong> in <strong>34 languages</strong> in <strong>more than 80 countries</strong> from <strong>1,200 different news sites worldwide.</strong></p>
                             </div>
                         </div>
                     </div>

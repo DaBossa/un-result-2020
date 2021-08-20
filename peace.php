@@ -100,39 +100,39 @@ include('header.php');
                         <div class="hl-item">
                             <img src="assets/images/pilar-<?php echo $page_class ?>-icon-hl-02.svg" alt="">
                             <div class="content">
-                                <p>41 senior and mid-level diplomats, regional organization representatives, and UN Headquarters and peace mission staff from around the world were trained in conflict analysis, negotiation, mediation and reconciliation through the annual international flagship Fellowship Programme in Peacemaking and Preventive Diplomacy.</p>
+                                <p><strong>41 senior and mid-level diplomats, regional organization representatives, and UN Headquarters and peace mission staff</strong> from around the world were <strong>trained in conflict analysis, negotiation, mediation and reconciliation</strong> through the annual international flagship <strong>Fellowship Programme in Peacemaking and Preventive Diplomacy.</strong></p>
                             </div>
                         </div>
                         <div class="hl-item">
                             <img src="assets/images/pilar-<?php echo $page_class ?>-icon-hl-03.svg" alt="">
                             <div class="content">
-                                <p>2,815 military personnel from eight African troop contributing countries were trained prior to their deployment to UN peace operations. The training allowed UN peacekeepers (women and men) to operate securely in increasingly complex and high-risk environments, thereby improving the effectiveness and coherence of peace operations.</p>
+                                <p><strong>2,815 military personnel from eight African troop contributing countries were trained prior to their deployment to UN peace operations.</strong> The training allowed UN peacekeepers (women and men) <strong>to operate securely in increasingly complex and high-risk environments,</strong> thereby <strong>improving the effectiveness and coherence of peace operations.</strong></p>
                             </div>
                         </div>
                         <div class="hl-item">
                             <img src="assets/images/pilar-<?php echo $page_class ?>-icon-hl-04.svg" alt="">
                             <div class="content">
-                                <p>In addition to military, 264 Formed Police Units (FPUs) trainers, including women trainers from West Africa, and 444 members of FPUs were trained prior to their deployment to the United Nations Multidimensional Integrated Stabilization Mission in Mali in order to better support stabilization and create conducive conditions for sustainable peace.</p>
+                                <p>In addition to military, <strong>264 Formed Police Units (FPUs) trainers, including women trainers from West Africa, and 444 members of FPUs were trained prior to their deployment to the United Nations Multidimensional Integrated Stabilization Mission in Mali</strong> in order to better support stabilization and create conducive conditions for sustainable peace.</p>
                             </div>
                         </div>
                         <div class="hl-item">
                             <img src="assets/images/pilar-<?php echo $page_class ?>-icon-hl-05.svg" alt="">
                             <div class="content">
-                                <p>5,500 youth, youth counterparts, families and community members from a total of 58 communities in Colombia were effectively engaged in strengthening community-based reintegration processes and conflict resolution mechanisms.</p>
-                                <p>Additionally, 67 Master Trainers were prepared to facilitate a three-stage multiplication process, which ensured the long-term sustainability and ownership of the new capacities and tools.</p>
-                                <p>The project fostered the recognition of youth as agents of positive change and contributed to the ongoing peace and reconciliation process in Colombia. An independent evaluation observed changes at individual level and to some extent within organizations, schools and families to contribute to positive conflict transformation, youth agency and local reconciliation.</p>
+                                <p><strong>5,500 youth, youth counterparts, families and community members from a total of 58 communities in Colombia</strong> were effectively engaged in strengthening <strong>community-based reintegration processes and conflict resolution mechanisms.</strong></p>
+                                <p>Additionally, <strong>67 Master Trainers were prepared to facilitate a three-stage multiplication process,</strong> which ensured the <strong>long-term sustainability and ownership of the new capacities and tools.</strong></p>
+                                <p>The project fostered the <strong>recognition of youth as agents of positive change</strong> and contributed to the <strong>ongoing peace and reconciliation process in Colombia. An independent evaluation observed changes at individual level and to some extent within organizations, schools and families</strong> to contribute to positive <strong>conflict transformation, youth agency and local reconciliation.</strong></p>
                             </div>
                         </div>
                         <div class="hl-item">
                             <img src="assets/images/pilar-<?php echo $page_class ?>-icon-hl-06.svg" alt="">
                             <div class="content">
-                                <p>Over 500 humanitarian actors from more than 30 UN agencies, NGOs, private sector organizations and research institutions attended 5 knowledge-exchange webinars and 9 multi-stakeholder workshops on sustainable energy in displacement settings, hosted by the Global Plan of Action.</p>
+                                <p>Over <strong>500 humanitarian actors from more than 30 UN agencies, NGOs, private sector organizations and research institutions</strong> attended <strong>5 knowledge-exchange webinars and 9 multi-stakeholder workshops on sustainable energy in displacement settings,</strong> hosted by the Global Plan of Action.</p>
                             </div>
                         </div>
                         <div class="hl-item">
                             <img src="assets/images/pilar-<?php echo $page_class ?>-icon-hl-07.svg" alt="">
                             <div class="content">
-                                <p>Strengthened the capacities of 31 senior and mid-level diplomats from African Member States, representatives from Offices of Presidents, regional and sub-regional organization officials, and staff of UN and AU peace missions in the Francophone Africa through the conduct of an intensive face-to-face regional training programmes in conflict prevention, negotiation, mediation and reconciliation in French language.</p>
+                                <p>Strengthened the capacities of <strong>31 senior and mid-level diplomats from African Member States, representatives from Offices of Presidents, regional and sub-regional organization officials,</strong> and <strong>staff of UN and AU peace missions in the Francophone Africa</strong> through the conduct of an <strong>intensive face-to-face regional training programmes in conflict prevention, negotiation, mediation and reconciliation</strong> in French language.</p>
                             </div>
                         </div>
                     </div>

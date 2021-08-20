@@ -96,31 +96,31 @@ include('header.php');
                         <div class="hl-item">
                             <img src="assets/images/pilar-<?php echo $page_class ?>-icon-hl-01.svg" alt="">
                             <div class="content">
-                                <p>Finance and trade officials in over 100 countries learned how to enhance food security, support financial inclusion, harness digital technologies to develop women’s livelihoods, build trade and finance resilience, and inspire women and youth to engage in global challenges. A majority of alumni have since used their new knowledge and changed their behaviour at work.</p>
+                                <p><strong>Finance and trade officials in over 100 countries learned how to enhance food security, support financial inclusion, harness digital technologies to develop women’s livelihoods, build trade and finance resilience, and inspire women and youth to engage in global challenges</strong>. A majority of alumni have since used their new knowledge and changed their behaviour at work.</p>
                             </div>
                         </div>
                         <div class="hl-item">
                             <img src="assets/images/pilar-<?php echo $page_class ?>-icon-hl-02.svg" alt="">
                             <div class="content">
-                                <p>168 policymakers and industry representatives from Europe, Central Asia and Francophone Sub-Saharan African countries strengthened their capacity to develop and implement trade and agriculture policies, through a joint training with the FAO. Participants considered policy implications for food security and nutrition within the context of regional and global governance and the COVID-19 crisis.</p>
+                                <p><strong>168 policymakers and industry representatives from Europe, Central Asia and Francophone Sub-Saharan African countries strengthened their capacity to develop and implement trade and agriculture policies,</strong> through a joint training with the FAO. Participants considered policy implications for food security and nutrition within the context of regional and global governance and the COVID-19 crisis.</p>
                             </div>
                         </div>
                         <div class="hl-item">
                             <img src="assets/images/pilar-<?php echo $page_class ?>-icon-hl-03.svg" alt="">
                             <div class="content">
-                                <p>More than 1,200 finance officials and development practitioners from 15 countries in the MENA Region and 36 countries in Sub-Saharan Africa learned how to enhance microfinance institutions to better respond to the COVID-19 crisis and serve vulnerable communities. Local expertise was built through training trainers and using country-specific case studies so local actors are empowered to enhance financial inclusion and the economic integration of the poor.</p>
+                                <p><strong>More than 1,200 finance officials and development practitioners from 15 countries in the MENA Region and 36 countries in Sub-Saharan Africa learned how to enhance microfinance institutions to better respond to the COVID-19 crisis and serve vulnerable communities.</strong> Local expertise was built through training trainers and using country-specific case studies so local actors are empowered to enhance financial inclusion and the economic integration of the poor.</p>
                             </div>
                         </div>
                         <div class="hl-item">
                             <img src="assets/images/pilar-<?php echo $page_class ?>-icon-hl-04.svg" alt="">
                             <div class="content">
-                                <p>182 women entrepreneurs from the Horn of Africa (Ethiopia, Kenya, Somalia, and Sudan) and 102 Iraqi youth entrepreneurs – both women and men – learned how to bring a new enterprise to life. They learned techniques to create sustainable solutions to meet customer needs and designed business models for their enterprise/social enterprise. 65 women from the Horn of Africa and 25 youth from Iraq continued on to further training on leadership, strategy, and innovation.</p>
+                                <p><strong>182 women entrepreneurs from the Horn of Africa (Ethiopia, Kenya, Somalia, and Sudan) and 102 Iraqi youth entrepreneurs – both women and men – learned how to bring a new enterprise to life.</strong> They learned techniques to create sustainable solutions to meet customer needs and designed business models for their enterprise/social enterprise. <strong>65 women from the Horn of Africa and 25 youth from Iraq continued on to further training on leadership, strategy, and innovation.</strong></p>
                             </div>
                         </div>
                         <div class="hl-item">
                             <img src="assets/images/pilar-<?php echo $page_class ?>-icon-hl-05.svg" alt="">
                             <div class="content">
-                                <p>68 women from 10 Pacific small island developing states learned about gender equality and women’s leadership in disaster risk reduction and planned inclusive, context-appropriate action to prepare for future disasters. The women found especially useful the relatively low-tech tools and ideas that they might use in their own communities. Virtual-reality tours, 3D maps, and video interviews with survivors of the 2011 tsunami in Japan helped participants experience the realities of major disasters, inspiring them to take action in their own countries.</p>
+                                <p><strong>68 women from 10 Pacific small island developing states learned about gender equality and women’s leadership in disaster risk reduction and planned inclusive, context-appropriate action to prepare for future disasters</strong>. The women found especially useful the relatively low-tech tools and ideas that they might use in their own communities. Virtual-reality tours, 3D maps, and video interviews with survivors of the 2011 tsunami in Japan helped participants experience the realities of major disasters, inspiring them to take action in their own countries.</p>
                             </div>
                         </div>
                     </div>

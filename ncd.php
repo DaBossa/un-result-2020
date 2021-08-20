@@ -43,37 +43,37 @@ include('header.php');
                         <div class="hl-item">
                             <img src="assets/images/pilar-<?php echo $page_class ?>-icon-hl-01.svg" alt="">
                             <div class="content">
-                                <p>The collaboration between the Government of Myanmar, the Defeat-NCD Partnership and stakeholders in Myanmar, resulted in the successful Development of a national NCD costed operational plan for Myanmar covering 2021 and 2022. The plan aims to support 11 million people in 2021 and 2022, with a focus on screening and treatment for five NCDs. The plan, successfully implemented, will benefit 2 million vulnerable people with free-of-charge NCD care, and the overall delivery of the plan is expected to reduce out-of-pocket expenses from the current level of 82% down to 63%.</p>
+                                <p>The collaboration between the Government of Myanmar, the Defeat-NCD Partnership and stakeholders in Myanmar, resulted in the successful Development of <strong>a national NCD costed operational plan for Myanmar covering 2021 and 2022.</strong> The plan <strong>aims to support 11 million people in 2021 and 2022, with a focus on screening and treatment for five NCDs.</strong> The plan, successfully implemented, <strong>will benefit 2 million vulnerable people</strong> with free-of-charge NCD care, and the overall delivery of the plan is expected to <strong>reduce out-of-pocket expenses from the current level of 82% down to 63%.</strong></p>
                             </div>
                         </div>
                         <div class="hl-item">
                             <img src="assets/images/pilar-<?php echo $page_class ?>-icon-hl-02.svg" alt="">
                             <div class="content">
-                                <p>We supported the development of proposals and mobilization of $1.76 million from different organizations. Other partners have mobilized an additional $2.5 million towards the costed action plan. The Government of Myanmar has engaged in discussions with multilateral banks to provide some $12 million towards the financing gap in the costed action plan to be funded by international development assistance.</p>
+                                <p>We supported the development of proposals and <strong>mobilization of $1.76 million</strong> from different organizations. Other partners have mobilized an <strong>additional $2.5 million towards the costed action plan.</strong> The Government of Myanmar has engaged in discussions with <strong>multilateral banks to provide some $12 million towards the financing gap</strong> in the costed action plan to be funded by international development assistance.</p>
                             </div>
                         </div>
                         <div class="hl-item">
                             <img src="assets/images/pilar-<?php echo $page_class ?>-icon-hl-03.svg" alt="">
                             <div class="content">
-                                <p>Simultaneously, the technical support provided to the Government of Rwanda led to the Development of a national strategy and costed action plan for Rwanda (2020-2025) for the prevention and control of NCDs. Successful delivery of the plan will directly benefit 4.8 million people and reduce premature mortality from NCDs in Rwanda by 25%.</p>
+                                <p>Simultaneously, the technical support provided to the Government of Rwanda led to the Development of <strong>a national strategy and costed action plan for Rwanda (2020-2025)</strong> for the prevention and control of NCDs. Successful delivery of the plan <strong>will directly benefit 4.8 million people and reduce premature mortality from NCDs in Rwanda by 25%.</strong></p>
                             </div>
                         </div>
                         <div class="hl-item">
                             <img src="assets/images/pilar-<?php echo $page_class ?>-icon-hl-04.svg" alt="">
                             <div class="content">
-                                <p>In addition, we supported the development of proposals and mobilization of $1.52 million towards the plan. The Government of Rwanda, supported by The Defeat-NCD Partnership and other partners, has developed a proposal towards Rwanda’s costed action plan for $4million of World Bank funding which has since been approved in the first quarter of 2021.</p>
+                                <p>In addition, we supported the development of proposals and <strong>mobilization of $1.52 million</strong> towards the plan. The Government of Rwanda, supported by The Defeat-NCD Partnership and other partners, has developed a proposal towards Rwanda’s costed action plan for <strong>$4million of World Bank funding</strong> which has since been approved in the first quarter of 2021.</p>
                             </div>
                         </div>
                         <div class="hl-item">
                             <img src="assets/images/pilar-<?php echo $page_class ?>-icon-hl-05.svg" alt="">
                             <div class="content">
-                                <p>We were requested to support the country’s efforts to support Rwanda’s COVID-19 efforts to improve critical care and prevent mortality, particularly among patients with pre-existing NCDs. Accordingly, we worked with the Rwanda Biomedical Centre to organise a successful training and knowledge sharing event on 19 and 20 September 2020. 12 internationally renowned health professionals, working on the frontline of COVID-19 clinical care joined 275 clinicians from Rwanda to exchange information on treatment guidelines and protocols, emerging trends and latest research.</p>
+                                <p>We were requested to support the country’s efforts to support Rwanda’s COVID-19 efforts to improve critical care and prevent mortality, particularly among patients with pre-existing NCDs. Accordingly, we worked with the Rwanda Biomedical Centre to organise a successful training and knowledge sharing event on 19 and 20 September 2020. <strong>12 internationally renowned health professionals, working on the frontline of COVID-19 clinical care joined 275 clinicians from Rwanda to exchange information on treatment guidelines and protocols,</strong> emerging trends and latest research.</p>
                             </div>
                         </div>
                         <div class="hl-item">
                             <img src="assets/images/pilar-<?php echo $page_class ?>-icon-hl-06.svg" alt="">
                             <div class="content">
-                                <p>We hosted a high-level panel discussion ‘Access to sustainable NCD treatment and care’ at the World Health Summit on 26 October 2020. Featuring 22 high level panelists and speakers, representing governments, multilateral institutions, development banks, humanitarian organizations, academia, philanthropic foundations, and private companies, and attended by 469 participants, The session highlighted commitments and major developments by key stakeholders related to progress in The Defeat-NCD Partnership’s mission and objectives.</p>
+                                <p>We hosted a high-level panel discussion <strong>‘Access to sustainable NCD treatment and care’</strong> at the World Health Summit on 26 October 2020. Featuring <strong>22 high level panelists</strong> and speakers, representing governments, multilateral institutions, development banks, humanitarian organizations, academia, philanthropic foundations, and private companies, and <strong>attended by 469 participants,</strong> The session highlighted commitments and major developments by key stakeholders related to progress in The Defeat-NCD Partnership’s mission and objectives.</p>
                             </div>
                         </div>
                         <div class="hl-item">
@@ -85,13 +85,13 @@ include('header.php');
                         <div class="hl-item">
                             <img src="assets/images/pilar-<?php echo $page_class ?>-icon-hl-08.svg" alt="">
                             <div class="content">
-                                <p>Further work was undertaken by The Defeat-NCD Partnership during 2020 to identifying the clear correlation between COVID-19 case fatalities and underlying NCD mortalities, and in-house research has demonstrated the disproportionate amount of funding allocated to the COVID-19 response over fundamental strengthening of NCD care.</p>
+                                <p>Further work was undertaken by The Defeat-NCD Partnership during 2020 to identifying the <strong>clear correlation between COVID-19 case fatalities and underlying NCD mortalities,</strong> and in-house research has demonstrated the disproportionate amount of funding allocated to the COVID-19 response over fundamental strengthening of NCD care.</p>
                             </div>
                         </div>
                         <div class="hl-item">
                             <img src="assets/images/pilar-<?php echo $page_class ?>-icon-hl-09.svg" alt="">
                             <div class="content">
-                                <p>We launched a joint study with the Economist Intelligence Unit to research this issue in further depth and publish findings during 2021. Using statistical methods and data-driven approaches, the study will highlight areas where funding can be spent in a complementary manner to tackle the pandemic in the short-term and NCDs in the long term.</p>
+                                <p>We launched <strong>a joint study with the Economist Intelligence Unit</strong> to research this issue in further depth and publish findings during 2021. Using statistical methods and data-driven approaches, the study <strong>will highlight areas where funding can be spent in a complementary manner to tackle the pandemic in the short-term and NCDs in the long term.</strong></p>
                             </div>
                         </div>
                     </div>
