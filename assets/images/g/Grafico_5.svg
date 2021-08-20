@@ -1,0 +1,20 @@
+<svg id="fc18be9d-a76d-4957-afdb-7ef919e5f07e" data-name="Camada 1" xmlns="http://www.w3.org/2000/svg" width="611.77" height="374.68" viewBox="0 0 611.77 374.68">
+  <g>
+    <path id="b5f145b0-fb3f-458f-90ea-d5a703e9aedb" data-name="Path 831" d="M166.09,308.72,128.92,175.45,192.23,53C161.06,37,130.54,34.18,96.54,44.21,25.91,65-15.07,141.06,5.18,213.69c19.88,71.29,91.48,113.2,160.91,95" style="fill: #498bca"/>
+    <g>
+      <text transform="translate(291.57 53.06)" style="isolation: isolate;font-size: 45.52299880981445px;fill: #498bca;font-family: Arial-BoldMT, Arial;font-weight: 700">63%</text>
+      <text transform="translate(291.57 83.93)" style="isolation: isolate;font-size: 22.76099967956543px;fill: #2e2a26;font-family: ArialMT, Arial">Other Developing Countries</text>
+    </g>
+    <path id="a1828a8b-f7e9-4eb0-946c-f67e31c4bac4" data-name="Path 830" d="M199.39,57,139.2,173.33l123.23,36.34c15.28-61.1-9.69-121.57-63-152.72" style="fill: #76a1d5"/>
+    <g>
+      <text transform="translate(291.57 165.03)" style="isolation: isolate;font-size: 45.52299880981445px;fill: #76a1d5;font-family: Arial-BoldMT, Arial;font-weight: 700">22%</text>
+      <text transform="translate(291.57 195.9)" style="isolation: isolate;font-size: 22.76099967956543px;fill: #2e2a26;font-family: ArialMT, Arial">Developed Countries</text>
+    </g>
+    <path id="bd4a0009-e071-4a1b-9189-97dbd2ad2eb7" data-name="Path 829" d="M139.19,182l34.7,124.43c41.87-13.67,73-45.7,86.31-88.75Z" style="fill: #a0bbe2"/>
+    <g>
+      <text transform="translate(291.57 277)" style="isolation: isolate;font-size: 45.52299880981445px;fill: #a0bbe2;font-family: Arial-BoldMT, Arial;font-weight: 700">15%</text>
+      <text transform="translate(291.57 307.87)" style="isolation: isolate;font-size: 22.76099967956543px;fill: #2e2a26;font-family: ArialMT, Arial">Countries in Special Situation</text>
+      <text transform="translate(291.57 336.32)" style="isolation: isolate;font-size: 22.76099967956543px;fill: #2e2a26;font-family: ArialMT, Arial">(LDCs, LLDCs, SIDs)</text>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,25 @@
+<svg id="bdca9794-2a51-45f3-ac50-94711f468eeb" data-name="Camada 1" xmlns="http://www.w3.org/2000/svg" width="741.05" height="402.05" viewBox="0 0 741.05 402.05">
+  <g>
+    <path id="efc5b8d1-9d33-4be8-96dc-30be83421cbb" data-name="Path 832" d="M266.68,189,226.1,205.26H207.44v-6.35a2.13,2.13,0,0,0-2.11-2.11h-8.47a2.13,2.13,0,0,0-2.11,2.11v6.35l-18.84-.08L135.51,189V169.29a2.08,2.08,0,0,1,2.07-2.11h127a2.12,2.12,0,0,1,2.11,2.11ZM199,201h4.23v12.7H199Zm67.7,44.43a2.09,2.09,0,0,1-2.07,2.11h-127a2.09,2.09,0,0,1-2.11-2.07V193.58l39.93,15.95h19.3v6.35a2.16,2.16,0,0,0,2.12,2.12h8.46a2.16,2.16,0,0,0,2.12-2.12v-6.35l19.58-.06,39.66-15.84ZM148.2,158.72h12.7V163H148.2Zm38.09-4.24h29.62V163H186.29Zm55,4.24H254V163h-12.7Zm29.62,10.57a6.34,6.34,0,0,0-6.34-6.34h-6.35V156.6a2.15,2.15,0,0,0-2.12-2.12H239.18a2.16,2.16,0,0,0-2.12,2.12V163H220.14V152.37a2.16,2.16,0,0,0-2.12-2.12H184.17a2.16,2.16,0,0,0-2.12,2.12V163H165.13V156.6a2.15,2.15,0,0,0-2.12-2.11H146.09A2.15,2.15,0,0,0,144,156.6V163h-6.35a6.34,6.34,0,0,0-6.34,6.35v76.16a6.36,6.36,0,0,0,6.34,6.35h127a6.36,6.36,0,0,0,6.34-6.35Z" style="fill: #498bca"/>
+    <path id="ab965727-5faa-45c5-95d6-716b3588d27e" data-name="Path 833" d="M0,201C0,91.89,87.34,2.81,195.78,0V86.18A115.1,115.1,0,0,0,86.15,201c0,58.35,44.23,107.5,101.63,114.14l-6,86C77.77,391.25,0,306.11,0,201" style="fill: #498bca"/>
+    <g>
+      <text transform="translate(440.05 55.35)" style="isolation: isolate;font-size: 47.99700164794922px;fill: #498bca;font-family: Arial-BoldMT, Arial;font-weight: 700">49%</text>
+      <text transform="translate(440.05 87.9)" style="isolation: isolate;font-size: 25px;fill: #2e2a26;font-family: ArialMT, Arial">Non-state sectors</text>
+    </g>
+    <path id="f4d4e120-64c8-44ea-b8fd-3ec5bd49fc30" data-name="Path 836" d="M401.62,215C394,323.85,300.62,406.67,192.3,401.85l6-86c1,0,1.89,0,2.78,0A114.94,114.94,0,0,0,301.25,144.61L374.31,99c21.61,36.34,30.3,73.36,27.31,116.06" style="fill: #2e4161"/>
+    <g>
+      <text transform="translate(440.05 147.89)" style="isolation: isolate;font-size: 47.99700164794922px;fill: #2e4161;font-family: Arial-BoldMT, Arial;font-weight: 700">35%</text>
+      <text transform="translate(440.05 180.44)" style="isolation: isolate;font-size: 25px;fill: #2e2a26;font-family: ArialMT, Arial">Other</text>
+    </g>
+    <path id="ac090780-523c-49c2-ad69-256d49ad7729" data-name="Path 835" d="M249,96.5l32.28-79.89c37.23,16,65.23,39.5,87.46,73.39l-73.07,45.66A116.41,116.41,0,0,0,249,96.5" style="fill: #8a3f98"/>
+    <g>
+      <text transform="translate(440.05 240.44)" style="isolation: isolate;font-size: 47.99700164794922px;fill: #8a3f98;font-family: Arial-BoldMT, Arial;font-weight: 700">10%</text>
+      <text transform="translate(440.05 272.99)" style="isolation: isolate;font-size: 25px;fill: #2e2a26;font-family: ArialMT, Arial">Governments</text>
+    </g>
+    <path id="a3639158-0a18-4dcf-b68d-0cb71a7b125b" data-name="Path 834" d="M206.34,86.17V0a192.88,192.88,0,0,1,65.11,12.66L239.17,92.54a114.24,114.24,0,0,0-32.83-6.37" style="fill: #d83d26"/>
+    <g>
+      <text transform="translate(440.05 332.99)" style="isolation: isolate;font-size: 47.99700164794922px;fill: #d83d26;font-family: Arial-BoldMT, Arial;font-weight: 700">6%</text>
+      <text transform="translate(440.05 365.54)" style="isolation: isolate;font-size: 25px;fill: #2e2a26;font-family: ArialMT, Arial">International organizations</text>
+    </g>
+  </g>
+</svg>

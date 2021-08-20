@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860.73" height="588.78" viewBox="0 0 860.73 588.78">
+  <g>
+    <g>
+      <rect width="858.8" height="588.78" style="fill: none"/>
+      <line y1="28.71" x2="855" y2="28.71" style="fill: none;stroke: #7f7874;stroke-width: 0.3720000088214874px"/>
+      <line y1="327.73" x2="855" y2="327.73" style="fill: none;stroke: #7f7874;stroke-width: 0.3720000088214874px"/>
+      <line y1="427.46" x2="855" y2="427.46" style="fill: none;stroke: #7f7874;stroke-width: 0.3720000088214874px"/>
+      <line y1="228.01" x2="855" y2="228.01" style="fill: none;stroke: #7f7874;stroke-width: 0.3720000088214874px"/>
+      <line y1="128.28" x2="855" y2="128.28" style="fill: none;stroke: #7f7874;stroke-width: 0.3720000088214874px"/>
+      <line x1="21.15" y1="449.05" x2="21.15" y2="20.79" style="fill: none;stroke: #7f7874;stroke-linecap: round;stroke-width: 0.503000020980835px;stroke-dasharray: 2.010999917984009,2.010999917984009"/>
+      <line x1="390.97" y1="449.05" x2="390.97" y2="20.79" style="fill: none;stroke: #7f7874;stroke-linecap: round;stroke-width: 0.503000020980835px;stroke-dasharray: 2.010999917984009,2.010999917984009"/>
+      <line x1="760.79" y1="449.05" x2="760.79" y2="20.79" style="fill: none;stroke: #7f7874;stroke-linecap: round;stroke-width: 0.503000020980835px;stroke-dasharray: 2.010999917984009,2.010999917984009"/>
+      <text transform="translate(4.93 480.42)" style="isolation: isolate;font-size: 16.10099983215332px;fill: #2e2a26;font-family: ArialMT, Arial">2018</text>
+      <text transform="translate(374.52 480.42)" style="isolation: isolate;font-size: 16.10099983215332px;fill: #2e2a26;font-family: ArialMT, Arial">2019</text>
+      <rect width="858.8" height="588.78" style="fill: none"/>
+      <rect width="858.8" height="588.78" style="fill: none"/>
+      <rect width="858.8" height="588.78" style="fill: none"/>
+      <text transform="translate(742.78 480.42)" style="isolation: isolate;font-size: 16.10099983215332px;fill: #2e2a26;font-family: ArialMT, Arial">2020</text>
+      <rect width="858.8" height="588.78" style="fill: none"/>
+      <rect width="858.8" height="588.78" style="fill: none"/>
+    </g>
+    <g class="linha">
+      <path d="M762.18,204.52S478.65,323.76,390.79,340.87c-91.79,17.88-371,40.52-371,40.52" style="fill: none;stroke: #2e4161;stroke-linecap: round;stroke-linejoin: round;stroke-width: 6px"/>
+      <path d="M21.68,386.8A5.7,5.7,0,1,0,16,381.09a5.7,5.7,0,0,0,5.71,5.71h0" style="fill: #2e4161"/>
+      <path d="M391.36,347.15a5.7,5.7,0,1,0-5.71-5.71,5.7,5.7,0,0,0,5.71,5.71h0" style="fill: #2e4161"/>
+      <path d="M762.18,210.8a5.7,5.7,0,1,0-5.7-5.71,5.7,5.7,0,0,0,5.7,5.71" style="fill: #2e4161"/>
+    </g>
+    <g><text transform="translate(53.12 402.59)" style="isolation: isolate;font-size: 20.125999450683594px;fill: #2e2a26;font-family: Arial-BoldMT, Arial;font-weight: 700">24,000</text></g>
+    <g><text transform="translate(421.66 358.09)" style="isolation: isolate;font-size: 20.125999450683594px;fill: #2e2a26;font-family: Arial-BoldMT, Arial;font-weight: 700">41,043</text></g>
+    <g><text transform="translate(785.01 209.19)" style="isolation: isolate;font-size: 20.125999450683594px;fill: #2e2a26;font-family: Arial-BoldMT, Arial;font-weight: 700"><tspan style="letter-spacing: -0.05519426980369263em">1</tspan><tspan x="10.08" y="0">12,529</tspan></text></g>
+    <g class="linha">
+      <path d="M760.76,14.26S519.82,190.63,391.64,242.75C287.82,285,19.8,307.23,19.8,307.23" style="fill: none;stroke: #498bca;stroke-linecap: round;stroke-linejoin: round;stroke-width: 6px"/>
+      <path d="M760.76,20.25a5.7,5.7,0,1,0-5.71-5.7,5.7,5.7,0,0,0,5.71,5.7h0" style="fill: #498bca"/>
+      <path d="M391.36,248.74a5.7,5.7,0,1,0-5.71-5.7,5.7,5.7,0,0,0,5.71,5.7h0" style="fill: #498bca"/>
+      <path d="M21.68,312.63a5.7,5.7,0,1,0-5.71-5.7,5.69,5.69,0,0,0,5.71,5.7h0" style="fill: #498bca"/>
+    </g>
+    <g><text transform="translate(53.12 328.14)" style="isolation: isolate;font-size: 20.125999450683594px;fill: #2e2a26;font-family: Arial-BoldMT, Arial;font-weight: 700">60,901</text></g>
+    <g><text transform="translate(421.66 254.26)" style="isolation: isolate;font-size: 20.125999450683594px;fill: #2e2a26;font-family: Arial-BoldMT, Arial;font-weight: 700">92,378</text></g>
+    <g><text transform="translate(786.05 14.65)" style="isolation: isolate;font-size: 20.125999450683594px;fill: #2e2a26;font-family: Arial-BoldMT, Arial;font-weight: 700">209,881</text></g>
+    <g>
+      <text transform="translate(41.26 552.64)" style="isolation: isolate;font-size: 16.10099983215332px;fill: #2e2a26;font-family: ArialMT, Arial">Event with</text>
+      <text transform="translate(41.26 571.96)" style="isolation: isolate;font-size: 16.10099983215332px;fill: #2e2a26;font-family: ArialMT, Arial">learning outcome</text>
+      <path d="M22.25,555.69a8.56,8.56,0,1,0-8.56-8.55h0a8.55,8.55,0,0,0,8.56,8.55" style="fill: #498bca"/>
+    </g>
+    <g>
+      <text transform="translate(241.61 552.92)" style="isolation: isolate;font-size: 16.10099983215332px;fill: #2e2a26;font-family: ArialMT, Arial">Other knowledge-sharing</text>
+      <text transform="translate(241.61 572.24)" style="isolation: isolate;font-size: 16.10099983215332px;fill: #2e2a26;font-family: ArialMT, Arial">and training-related</text>
+      <path d="M223.12,556a8.56,8.56,0,1,0-8.56-8.56h0a8.56,8.56,0,0,0,8.56,8.56" style="fill: #2e4161"/>
+    </g>
+    <g><text transform="translate(605.73 552.36)" style="isolation: isolate;font-size: 20.014999389648438px;fill: #2e2a26;font-family: Arial-BoldMT, Arial;font-weight: 700"><tspan style="letter-spacing: -0.07423631721510128em">T</tspan><tspan x="10.74" y="0">otal beneficiaries in 2020:</tspan></text></g>
+    <g><text transform="translate(743.7 588.78)" style="isolation: isolate;font-size: 32.20100021362305px;fill: #2e2a26;font-family: Arial-BoldMT, Arial;font-weight: 700">322,410</text></g>
+  </g>
+</svg>

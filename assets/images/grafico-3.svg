@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+                            viewBox="0 0 1714 790">
+                            <g id="Grupo_3440" data-name="Grupo 3440" transform="translate(-80.007 -180.601)">
+                                <image id="mapa-america_sul" width="400" height="522"
+                                    transform="translate(237.007 448.601)"
+                                    xlink:href="assets/images/mapa-america_sul.png" />
+                                <g id="Grupo_3430" data-name="Grupo 3430">
+                                    <path id="Caminho_706" data-name="Caminho 706"
+                                        d="M484.457,723.816a46.932,46.932,0,0,0,46.931,46.933h0a46.931,46.931,0,0,0,46.933-46.927v-.006A46.929,46.929,0,0,0,531.4,676.883h-.006a46.931,46.931,0,0,0-46.933,46.931v0"
+                                        fill="#fff" opacity="0.3" style="isolation: isolate" />
+                                    <g id="Grupo_3445" data-name="Grupo 3445" style="isolation: isolate">
+                                        <text id="_36_" data-name="36%" transform="translate(498.057 734.86)"
+                                            fill="#fff" font-size="33" font-family="Arial-BoldMT, Arial"
+                                            font-weight="700" style="isolation: isolate">
+                                            <tspan x="0" y="0">36%</tspan>
+                                        </text>
+                                    </g>
+                                </g>
+                                <image id="mapa-america_norte" width="722" height="314"
+                                    transform="translate(80.007 180.601)"
+                                    xlink:href="assets/images/mapa-america_norte.png" />
+                                <g id="Grupo_3432" data-name="Grupo 3432">
+                                    <path id="Caminho_709" data-name="Caminho 709"
+                                        d="M303.942,362.678a45.795,45.795,0,0,0,91.589,0v0a45.793,45.793,0,0,0-45.786-45.8h-.008a45.8,45.8,0,0,0-45.8,45.8"
+                                        fill="#fff" opacity="0.3" style="isolation: isolate" />
+                                    <g id="Grupo_3446" data-name="Grupo 3446" style="isolation: isolate">
+                                        <text id="_4_" data-name="4%" transform="translate(326.057 375.612)" fill="#fff"
+                                            font-size="33" font-family="Arial-BoldMT, Arial" font-weight="700"
+                                            style="isolation: isolate">
+                                            <tspan x="0" y="0">4%</tspan>
+                                        </text>
+                                    </g>
+                                </g>
+                                <image id="mapa-africa" width="358" height="428" transform="translate(728.007 421.601)"
+                                    xlink:href="assets/images/mapa-africa.png" />
+                                <g id="Grupo_3431" data-name="Grupo 3431">
+                                    <path id="Caminho_703" data-name="Caminho 703"
+                                        d="M808.457,529.948a46.933,46.933,0,1,0,46.935-46.933h0a46.932,46.932,0,0,0-46.933,46.931v0"
+                                        fill="#fff" opacity="0.3" style="isolation: isolate" />
+                                    <g id="Grupo_3441" data-name="Grupo 3441" style="isolation: isolate">
+                                        <text id="_28_" data-name="28%" transform="translate(822.057 540.993)"
+                                            fill="#fff" font-size="33" font-family="Arial-BoldMT, Arial"
+                                            font-weight="700" style="isolation: isolate">
+                                            <tspan x="0" y="0">28%</tspan>
+                                        </text>
+                                    </g>
+                                </g>
+                                <image id="mapa-oriente_medio" width="149" height="162"
+                                    transform="translate(991.007 406.601)"
+                                    xlink:href="assets/images/mapa-oriente_medio.png" />
+                                <g id="Grupo_3436" data-name="Grupo 3436">
+                                    <path id="Caminho_2976" data-name="Caminho 2976"
+                                        d="M1023.942,522.678a45.8,45.8,0,1,0,45.792-45.8h0a45.8,45.8,0,0,0-45.792,45.8"
+                                        fill="#fff" opacity="0.3" style="isolation: isolate" />
+                                    <g id="Grupo_3442" data-name="Grupo 3442" style="isolation: isolate">
+                                        <text id="_3_" data-name="3%" transform="translate(1046.057 535.613)"
+                                            fill="#fff" font-size="33" font-family="Arial-BoldMT, Arial"
+                                            font-weight="700" style="isolation: isolate">
+                                            <tspan x="0" y="0">3%</tspan>
+                                        </text>
+                                    </g>
+                                </g>
+                                <image id="mapa-europa" width="847" height="250" transform="translate(732.007 188.601)"
+                                    xlink:href="assets/images/mapa-europa.png" />
+                                <g id="Grupo_3435" data-name="Grupo 3435">
+                                    <path id="Caminho_697" data-name="Caminho 697"
+                                        d="M1184.455,283.815a46.932,46.932,0,0,0,46.931,46.933h0a46.931,46.931,0,0,0,46.933-46.927v-.006a46.929,46.929,0,0,0-46.927-46.933h-.006a46.931,46.931,0,0,0-46.933,46.931v0"
+                                        fill="#fff" opacity="0.3" style="isolation: isolate" />
+                                    <g id="Grupo_3443" data-name="Grupo 3443" style="isolation: isolate">
+                                        <text id="_13_" data-name="13%" transform="translate(1198.057 294.86)"
+                                            fill="#fff" font-size="33" font-family="Arial-BoldMT, Arial"
+                                            font-weight="700" style="isolation: isolate">
+                                            <tspan x="0" y="0">13%</tspan>
+                                        </text>
+                                    </g>
+                                </g>
+                                <image id="mapa-asia_oceania" width="758" height="606"
+                                    transform="translate(1036.007 316.601)"
+                                    xlink:href="assets/images/mapa-asia_oceania.png" />
+                                <g id="Grupo_3434" data-name="Grupo 3434">
+                                    <path id="Caminho_694" data-name="Caminho 694"
+                                        d="M1224.457,429.948a46.929,46.929,0,0,0,46.927,46.933h.006a46.932,46.932,0,0,0,46.933-46.931v0a46.933,46.933,0,0,0-46.931-46.933h0a46.931,46.931,0,0,0-46.933,46.927v.006"
+                                        fill="#fff" opacity="0.3" style="isolation: isolate" />
+                                    <g id="Grupo_3444" data-name="Grupo 3444" style="isolation: isolate">
+                                        <text id="_16_" data-name="16%" transform="translate(1238.057 440.993)"
+                                            fill="#fff" font-size="33" font-family="Arial-BoldMT, Arial"
+                                            font-weight="700" style="isolation: isolate">
+                                            <tspan x="0" y="0">16%</tspan>
+                                        </text>
+                                    </g>
+                                </g>
+                            </g>
+                        </svg>

@@ -1,0 +1,14 @@
+<svg id="acaa0586-9c47-43eb-a263-ea358238f6b4" data-name="Camada 1" xmlns="http://www.w3.org/2000/svg" width="851.14" height="172.8" viewBox="0 0 851.14 172.8">
+  <g>
+    <rect id="a881a5c1-3576-4b76-a66c-38a365885aef" data-name="Rectangle 42" x="1.28" width="85.64" height="84.36" style="fill: #32415f" class="scaleX ToR"/>
+    <g>
+      <text transform="translate(0 141.91)" style="isolation: isolate;font-size: 40px;fill: #32415f;font-family: Arial-BoldMT, Arial;font-weight: 700">12%</text>
+      <text transform="translate(0 168.8)" style="isolation: isolate;font-size: 20px;fill: #2d2a26;font-family: ArialMT, Arial">without partners</text>
+    </g>
+    <rect id="bc30edb9-3173-40db-afc1-5caac15da859" data-name="Rectangle 41" x="96.69" width="754.45" height="84.36" style="fill: #5b89c4" class="scaleX ToR"/>
+    <g>
+      <text transform="translate(176.77 142.01)" style="isolation: isolate;font-size: 40px;fill: #5b89c4;font-family: Arial-BoldMT, Arial;font-weight: 700">88%</text>
+      <text transform="translate(176.77 168.8)" style="isolation: isolate;font-size: 20px;fill: #2d2a26;font-family: ArialMT, Arial">with partners</text>
+    </g>
+  </g>
+</svg>
