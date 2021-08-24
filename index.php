@@ -30,7 +30,7 @@ include('header.php');
                                     <h3>Nikhil Seth</h3>
                                     <p class="m-0">United Nations Assistant Secretary-General</p>
                                     <p>UNITAR Executive Director</p>
-                                    <p><a href="#" class="btn icon i-seta i-seta-direita">Read more</a></p>
+                                    <p><a href="download/unitar_results_report_2020.pdf#page=3" class="btn icon i-seta i-seta-direita" target="_blank">Read more</a></p>
                                 </div>
                             </div>
                         </div>
@@ -43,7 +43,7 @@ include('header.php');
                                     <p>UNITAR Executive Director</p>
                                 </div>
                                 <div class="col-lg-12 col-xl-5 mt-lg-3 text-xl-right mt-xl-0 reveal">
-                                    <p><a href="download/unitar_results_report_2020.pdf#page=5" class="btn icon i-seta i-seta-direita" target="_blank">Read more</a></p>
+                                    <p><a href="download/unitar_results_report_2020.pdf#page=3" class="btn icon i-seta i-seta-direita" target="_blank">Read more</a></p>
                                 </div>
                             </div>
                         </div>
@@ -60,8 +60,8 @@ include('header.php');
                         <h3 class="h3 reveal">Trained Beneficiaries</h3>
                         <p class="reveal">We provided learning, training and knowledge-sharing services to 322,410 individuals in 2020, representing a 142% increase from 2019 figures.</p>
                         <p class="reveal">65% of UNITAR’s overall beneficiaries were associated with events having specific learning outcomes, representing an increase of 127% in this category.</p>
-                        <div class="pt-lg-5 pb-lg-5 mb-5 mt-5 d-lg-none reveal-grafico">
-                            <?php include('assets/images/grafico-1-mobile.svg'); ?>
+                        <div class="pt-lg-5 pb-lg-5 mb-5 mt-5 d-lg-none reveal">
+                            <?php include('assets/images/g/m/grafico_1.svg'); ?>
                             <!--<img src="assets/images/g/Grafico_1.svg" alt="">-->
                         </div>
                         <div class="pt-lg-5 pb-lg-5 mb-5 mt-5 d-none d-lg-block reveal-grafico">
@@ -86,7 +86,11 @@ include('header.php');
                         <p class="reveal">The overall male to female gender ratio of beneficiaries from learning-related events for 2020 was 44 to 51 (counting peacekeeping training beneficiaries) and “other”  accounting for 5%.</p>
                     </div>
                     <div class="w-100"></div>
-                    <div class="col-md-9 col-lg-7 col-xl-4 mt-5 mb-5 pb-5 mx-auto reveal-grafico">
+                    <div class="col-11 col-md-9 mx-auto mt-5 mb-5 pb-5 d-lg-none reveal">
+                        <?php include('assets/images/g/m/grafico_2.svg'); ?>
+                        <!-- <img src="assets/images/g/Grafico_2.svg" alt=""> -->
+                    </div>
+                    <div class="col-md-9 col-lg-7 col-xl-4 mt-5 mb-5 pb-5 mx-auto d-none d-lg-block reveal-grafico">
                         <?php include('assets/images/g/Grafico_2.svg'); ?>
                         <!-- <img src="assets/images/g/Grafico_2.svg" alt=""> -->
                     </div>
@@ -96,9 +100,9 @@ include('header.php');
                     </div>
                     <div class="w-100"></div>
                     <div class="col-11 col-lg-9 text-center mx-auto mt-5 pt-lg-5">
-                        <div class="grafico-2-mobile d-md-none">
+                        <div class="d-md-none reveal">
                             <?php //include('assets/images/grafico-2-mobile.svg'); ?>
-                            <img src="assets/images/g/Grafico_3.svg" alt="">
+                            <img src="assets/images/g/m/grafico_3.svg" alt="">
                         </div>
                         <div class="grafico-2 d-none d-md-block reveal-grafico">
                             <?php include('assets/images/g/Grafico_3.svg'); ?>
@@ -125,10 +129,10 @@ include('header.php');
             </div>
             <div class="container-fluid py-0">
                 <div class="row">
-                    <div class="col-12 grafico-4-mobile pt-lg-5 mt-3 mt-md-5 d-lg-none">
-                        <img src="assets/images/g/Grafico_4.svg" alt="">
+                    <div class="col-12 grafico-4-mobile pt-lg-5 mt-3 mt-md-5 d-md-none">
+                        <img src="assets/images/g/m/grafico_4.svg" alt="">
                     </div>
-                    <div class="col-12 grafico-4 my-5 d-none d-lg-block text-center reveal-grafico">
+                    <div class="col-12 grafico-4 my-5 d-none d-md-block text-center reveal-grafico">
                         <?php include('assets/images/g/Grafico_4.svg'); ?>
                         <!-- <img src="assets/images/g/Grafico_4.svg" alt=""> -->
                     </div>
@@ -137,9 +141,9 @@ include('header.php');
             <div class="container pt-0">
                 <div class="row">
                     <div class="d-md-none">
-                        <div class="col-11 mx-auto">
+                        <div class="col-11 mt-5 mx-auto">
                             <?php //include('assets/images/g/Grafico_5.svg'); ?>
-                            <img src="assets/images/g/Grafico_5.svg" alt="">
+                            <img src="assets/images/g/m/grafico_5.svg" alt="">
                         </div>
                         <div class="col-11 mx-auto mt-3">
                             <p class="reveal"><strong>79% of our learning-related beneficiaries came from developing countries, and 15% from countries in special situations - comprised of the least-developed countries (LDCs), the landlocked developing countries (LLDCs) and the small island developing States (SIDS).</strong></p>
@@ -165,7 +169,11 @@ include('header.php');
                         <p class="reveal">UNITAR’s overall beneficiaries took part in 896 events, equivalent to some 12,173 event days over the calendar year. Due to COVID-19 pandemic, most of our face-to-face events were converted into an online format.  As such, 78% of the total number of events were delivered through e-learning and other format while only 20% of events took place through face-to-face. Among the face-to-face and blended events, over 80% were delivered in the field (many of which were in developing countries).</p>
                     </div>
                     <div class="w-100"></div>
-                    <div class="col-11 col-md-9 col-lg-7 mt-5 pt-5 mx-auto text-center reveal-grafico">
+                    <div class="col-11 col-md-9 col-lg-7 mx-auto mt-3 text-center d-md-none reveal">
+                        <?php include('assets/images/g/m/grafico_6.svg'); ?>
+                        <!-- <img src="assets/images/g/Grafico_6.svg" alt=""> -->
+                    </div>
+                    <div class="col-11 col-md-9 col-lg-7 mt-5 pt-5 mx-auto text-center d-none d-md-block reveal-grafico">
                         <?php include('assets/images/g/Grafico_6.svg'); ?>
                         <!-- <img src="assets/images/g/Grafico_6.svg" alt=""> -->
                     </div>
@@ -183,7 +191,11 @@ include('header.php');
                         <p class="reveal">We serve a wide spectrum of constituencies, with 49% of our learning related beneficiaries coming from non-state sectors, including NGOs, academia and the private sector.</p>
                     </div>
                     <div class="w-100"></div>
-                    <div class="col-11 col-md-9 col-lg-7 mt-lg-5 pt-5 mx-auto text-center reveal-grafico">
+                    <div class="col-11 col-md-9 col-lg-7 mt-lg-5 pt-5 mx-auto text-center d-md-none reveal">
+                        <?php include('assets/images/g/m/grafico_7.svg'); ?>
+                        <!-- <img src="assets/images/g/Grafico_7.svg" alt=""> -->
+                    </div>
+                    <div class="col-11 col-md-9 col-lg-7 mt-lg-5 pt-5 mx-auto text-center d-none d-md-block reveal-grafico">
                         <?php include('assets/images/g/Grafico_7.svg'); ?>
                         <!-- <img src="assets/images/g/Grafico_7.svg" alt=""> -->
                     </div>
@@ -332,7 +344,11 @@ include('header.php');
                         <p class="reveal">Of the Institute’s 896 events in 2020, 88% of 2020 beneficiaries were trained through events implemented in partnership.</p>
                     </div>
                     <div class="w-100"></div>
-                    <div class="col-11 col-md-9 col-lg-7 mt-5 mb-5 pb-5 mx-auto reveal-grafico">
+                    <div class="col-11 col-md-9 col-lg-7 mt-5 mb-5 pb-5 mx-auto d-md-none reveal">
+                        <?php include('assets/images/g/m/grafico_8.svg'); ?>
+                        <!-- <img src="assets/images/g/Grafico_8.svg" alt=""> -->
+                    </div>
+                    <div class="col-11 col-md-9 col-lg-7 mt-5 mb-5 pb-5 mx-auto d-none d-md-block reveal-grafico">
                         <?php include('assets/images/g/Grafico_8.svg'); ?>
                         <!-- <img src="assets/images/g/Grafico_8.svg" alt=""> -->
                     </div>
@@ -342,7 +358,11 @@ include('header.php');
                         <p class="reveal">Of the Institute’s 896 events in 2020, 88% of 2020 beneficiaries were trained through events implemented in partnership.</p>
                     </div>
                     <div class="w-100"></div>
-                    <div class="col-11 col-md-9 col-lg-7 mt-5 mx-auto reveal-grafico">
+                    <div class="col-11 col-md-9 col-lg-7 mt-5 mx-auto d-md-none reveal">
+                        <?php include('assets/images/g/m/grafico_9.svg'); ?>
+                        <!-- <img src="assets/images/g/Grafico_9.svg" alt=""> -->
+                    </div>
+                    <div class="col-11 col-md-9 col-lg-7 mt-5 mx-auto d-none d-md-block reveal-grafico">
                         <?php include('assets/images/g/Grafico_9.svg'); ?>
                         <!-- <img src="assets/images/g/Grafico_9.svg" alt=""> -->
                     </div>

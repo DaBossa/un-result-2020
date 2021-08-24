@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="215.005" height="414.002" viewBox="0 0 215.005 414.002">
+  <g id="grafico_8" data-name="grafico 8" transform="translate(-95.639 -137.694)">
+    <g id="Group_575" data-name="Group 575" transform="translate(228.644 331.046)">
+      <text id="_88_" data-name="88%" transform="translate(0 25)" fill="#5b89c4" font-size="28" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">88%</tspan></text>
+      <text id="with_partners" data-name="with partners" transform="translate(0 42.265)" fill="#2d2a26" font-size="11" font-family="ArialMT, Arial"><tspan x="0" y="0">with partners</tspan></text>
+    </g>
+    <g id="Group_576" data-name="Group 576" transform="translate(231.644 137.694)">
+      <text id="_12_" data-name="12%" transform="translate(0 25)" fill="#32415f" font-size="28" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">12%</tspan></text>
+      <text id="without_partners" data-name="without partners" transform="translate(0 42.341)" fill="#2d2a26" font-size="11" font-family="ArialMT, Arial"><tspan x="0" y="0">without partners</tspan></text>
+    </g>
+    <path id="Path_2118" data-name="Path 2118" d="M0,0V62.631" transform="translate(159.182 371.178) rotate(-90)" fill="#4d8cca" stroke="#5e8bc5" stroke-width="1"/>
+    <path id="Path_2119" data-name="Path 2119" d="M0,0V62.631" transform="translate(159.182 177.603) rotate(-90)" fill="#4d8cca" stroke="#2e4161" stroke-width="1"/>
+    <g id="Group_1367" data-name="Group 1367" transform="translate(16)">
+      <rect id="Rectangle_41" data-name="Rectangle 41" width="353.773" height="71.699" transform="translate(151.338 197.923) rotate(90)" fill="#5b89c4"/>
+      <rect id="Rectangle_42" data-name="Rectangle 42" width="38.831" height="71.699" transform="translate(151.338 154.66) rotate(90)" fill="#32415f"/>
+    </g>
+  </g>
+</svg>

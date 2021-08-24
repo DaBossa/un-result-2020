@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="272.354" height="481.925" viewBox="0 0 272.354 481.925">
+  <g id="grafico_6" data-name="grafico 6" transform="translate(-75.314 -120.318)">
+    <text id="_20_" data-name="20%" transform="translate(221.314 236.687)" fill="#2e4161" font-size="26" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">20%</tspan></text>
+    <text id="Face-to-Face" transform="translate(221.314 255.281)" fill="#2e2a26" font-size="11" font-family="ArialMT, Arial"><tspan x="0" y="0">Face-to-Face</tspan></text>
+    <text id="_78_" data-name="78%" transform="translate(201.433 402.829)" fill="#498bca" font-size="26" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">78%</tspan></text>
+    <text id="e-Learning_and_other" data-name="e-Learning and other" transform="translate(201.433 421.422)" fill="#2e2a26" font-size="11" font-family="ArialMT, Arial"><tspan x="0" y="0">e-Learning and other</tspan></text>
+    <text id="_2_" data-name="2%" transform="translate(184.519 580.649)" fill="#76a1d5" font-size="27" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">2%</tspan></text>
+    <text id="Blended_learning" data-name="Blended learning" transform="translate(184.519 599.243)" fill="#2e2a26" font-size="11" font-family="ArialMT, Arial"><tspan x="0" y="0">Blended learning</tspan></text>
+    <rect id="Rectangle_30" data-name="Rectangle 30" width="7.627" height="69.843" transform="translate(147.338 592.069) rotate(90)" fill="#76a1d5"/>
+    <rect id="Rectangle_31" data-name="Rectangle 31" width="297.411" height="69.843" transform="translate(147.338 286.233) rotate(90)" fill="#498bca"/>
+    <rect id="Rectangle_32" data-name="Rectangle 32" width="76.26" height="69.843" transform="translate(147.338 201.552) rotate(90)" fill="#2e4161"/>
+    <g id="Group_1357" data-name="Group 1357" transform="translate(236.91 539.401)">
+      <g id="Group_561" data-name="Group 561" transform="translate(0 0)">
+        <path id="Path_646" data-name="Path 646" d="M1143.038,7547.911v.84a2.521,2.521,0,0,0,2.52,2.522h35.281a2.521,2.521,0,0,0,2.519-2.522v-.84Zm37.613-34.273a9.242,9.242,0,0,0-14.262,11.605l-1.774,4.44,4.437-1.775a9.244,9.244,0,0,0,11.6-14.27Zm.187,17.2v17.073m-8.4,0v-4.357a3.4,3.4,0,0,0-2.082-3.136l-3.6-1.511a1.7,1.7,0,0,1-1.034-1.557v-.024c1.05-1.094,1.236-3,1.253-4.968m-5.317-4.3a3.759,3.759,0,0,0-2.235,3.439c-.008,2.251.051,4.587,1.261,5.84v.008a1.693,1.693,0,0,1-1.034,1.565l-3.6,1.511a3.4,3.4,0,0,0-2.082,3.136v4.357m-8.4,0v-21.855a2.522,2.522,0,0,1,2.519-2.523h13.9" transform="translate(-1143.038 -7510.929)" fill="none" stroke="#76a1d5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+        <path id="Path_647" data-name="Path 647" d="M1313.217,7560.654v-10.3a9.149,9.149,0,0,0,3.021-6.737c0-5.263-4.63-9.533-10.346-9.533s-10.347,4.27-10.347,9.533c0,.144,0,.291.012.432l-1.443,2.306-1.9,3.038h2.406v3.761a2.687,2.687,0,0,0,2.789,2.573h4.419v4.926m-35.078,0v-10.3a9.146,9.146,0,0,1-3.022-6.737c0-5.263,4.632-9.533,10.345-9.533s10.348,4.27,10.348,9.533c0,.144-.006.291-.013.432l1.444,2.306,1.9,3.038h-2.4v3.761a2.688,2.688,0,0,1-2.788,2.573h-4.418v4.926" transform="translate(-1206.23 -7523.054)" fill="none" stroke="#76a1d5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      </g>
+      <rect id="Rectangle_33" data-name="Rectangle 33" width="1.668" height="20.425" transform="translate(50.235 38.264) rotate(180)" fill="#76a1d5"/>
+    </g>
+    <g id="Group_562" data-name="Group 562" transform="translate(75.314 120.318)">
+      <text id="_896_" data-name="896 " transform="translate(0 46)" fill="#2e4161" font-size="51" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">896 </tspan></text>
+      <text id="Events" transform="translate(95 45.387)" fill="#2e4161" font-size="32" font-family="ArialMT, Arial"><tspan x="0" y="0" letter-spacing="0.03em">E</tspan><tspan y="0" letter-spacing="0.029em">ven</tspan><tspan y="0" letter-spacing="0.03em">t</tspan><tspan y="0">s</tspan></text>
+    </g>
+    <path id="Path_2124" data-name="Path 2124" d="M1143.038,7547.91v.839a2.52,2.52,0,0,0,2.52,2.522h35.281a2.52,2.52,0,0,0,2.519-2.522v-.839Zm37.613-34.273a9.243,9.243,0,0,0-14.262,11.606l-1.774,4.44,4.437-1.776a9.243,9.243,0,0,0,11.6-14.27Zm.187,17.2v17.072m-8.4,0v-4.356a3.4,3.4,0,0,0-2.082-3.136l-3.6-1.512a1.694,1.694,0,0,1-1.034-1.557v-.024c1.05-1.093,1.236-3,1.253-4.967m-5.317-4.3a3.759,3.759,0,0,0-2.235,3.438c-.008,2.25.051,4.588,1.261,5.841v.006a1.692,1.692,0,0,1-1.034,1.565l-3.6,1.512a3.4,3.4,0,0,0-2.082,3.136v4.356m-8.4,0v-21.854a2.522,2.522,0,0,1,2.519-2.523h13.9" transform="translate(-875.519 -7147.347)" fill="none" stroke="#498bca" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Path_2125" data-name="Path 2125" d="M1313.217,7560.654v-10.3a9.149,9.149,0,0,0,3.021-6.737c0-5.263-4.63-9.533-10.346-9.533s-10.347,4.27-10.347,9.533c0,.144,0,.291.012.432l-1.443,2.306-1.9,3.038h2.406v3.761a2.687,2.687,0,0,0,2.789,2.573h4.419v4.926m-35.078,0v-10.3a9.146,9.146,0,0,1-3.022-6.737c0-5.263,4.632-9.533,10.345-9.533s10.348,4.27,10.348,9.533c0,.144-.006.291-.013.432l1.444,2.306,1.9,3.038h-2.4v3.761a2.688,2.688,0,0,1-2.788,2.573h-4.418v4.926" transform="translate(-977.411 -7324.356)" fill="none" stroke="#2e4161" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <line id="Line_13" data-name="Line 13" x2="82" transform="translate(130.5 251.281)" fill="none" stroke="#2e4161" stroke-width="1"/>
+    <line id="Line_14" data-name="Line 14" x2="54.916" transform="translate(139.5 419.281)" fill="none" stroke="#498bca" stroke-width="1"/>
+    <line id="Line_15" data-name="Line 15" y1="0.257" x2="43" transform="translate(135.5 595.625)" fill="none" stroke="#76a1d5" stroke-width="1"/>
+  </g>
+</svg>

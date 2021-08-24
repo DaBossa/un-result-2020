@@ -147,7 +147,7 @@ include('header.php');
                 <div class="row align-items-center">
                     <div class="col-8 col-md-5 col-img">
                         <div class="image image-1">
-                            <i><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 671.31 751.31"><path d="M514,750,82,688,1,289,228,126H587l-1,396Z" style="fill:none;stroke:#fff;"/><path d="M161,1,590.65,61.65,670,461,442,626H86V228Z" style="fill:none;stroke:#fff;"/></svg></i>
+                            <i class="reveal"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 671.31 751.31"><path d="M514,750,82,688,1,289,228,126H587l-1,396Z" style="fill:none;stroke:#fff;"/><path d="M161,1,590.65,61.65,670,461,442,626H86V228Z" style="fill:none;stroke:#fff;"/></svg></i>
                             <img class="reveal r-scale-out" src="assets/images/pilar-<?php echo $page_class ?>-depoimento-01.jpg" alt="Falmata Liman - Senegal">
                         </div>
                     </div>
@@ -165,7 +165,7 @@ include('header.php');
                 <div class="row flex-md-row-reverse align-items-center">
                     <div class="col-8 col-md-5 col-img">
                         <div class="image image-2 stroke-<?php echo $page_class ?>">
-                            <i><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 671.31 751.31"><path d="M514,750,82,688,1,289,228,126H587l-1,396Z" style="fill:none;stroke:#fff;"/><path d="M161,1,590.65,61.65,670,461,442,626H86V228Z" style="fill:none;stroke:#fff;"/></svg></i>
+                            <i class="reveal"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 671.31 751.31"><path d="M514,750,82,688,1,289,228,126H587l-1,396Z" style="fill:none;stroke:#fff;"/><path d="M161,1,590.65,61.65,670,461,442,626H86V228Z" style="fill:none;stroke:#fff;"/></svg></i>
                             <img class="reveal r-scale-out" src="assets/images/pilar-<?php echo $page_class ?>-depoimento-02.jpg" alt="Carmen Betancur - Colombia">
                         </div>
                     </div>

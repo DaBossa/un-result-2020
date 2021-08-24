@@ -65,7 +65,7 @@ $(window).on("load", function() {
             interval: 150,
             delay: 500,
             viewFactor: 0.3,
-            mobile: false
+            //mobile: false
         });
 
         ScrollReveal().reveal('.r-scale-in', {

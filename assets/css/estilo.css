@@ -16,6 +16,8 @@ img {
   max-width: 100%;
 }
 svg {
+  width: 100%;
+  height: auto;
   max-width: 100%;
 }
 main a {
@@ -175,6 +177,9 @@ main a {
 }
 .navbar-expand-lg .navbar-collapse > .btn i {
   display: block;
+}
+.navbar-expand-lg .navbar-collapse > .btn i svg {
+  width: auto;
 }
 .navbar-expand-lg .navbar-collapse > .btn i svg path {
   fill: #fff;
@@ -385,6 +390,7 @@ body.bg-partnerships .depoimento.bg-light::before {
   font-weight: bold;
   padding: 10px 25px;
   text-decoration: none;
+  transition: background-color 0.3s ease-in-out;
 }
 .btn.i-seta-direita::after,
 .btn.i-seta-esquerda::before {
@@ -411,6 +417,9 @@ body.bg-partnerships .depoimento.bg-light::before {
 .text-white .btn {
   color: #2E4161;
   background-color: #fff;
+}
+.text-white .btn:hover {
+  background-color: #3A8DDE;
 }
 .btn-2 {
   padding: 0;
@@ -1315,6 +1324,7 @@ ul.items-numbers li h5 {
 .grafico-4 svg {
   width: calc(100% - 60px);
   max-width: 1920px;
+  height: auto;
 }
 
 .reveal-grafico svg > g > * {

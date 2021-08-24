@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="349.599" height="306.595" viewBox="0 0 349.599 306.595">
+  <g id="grafico_5" data-name="grafico 5" transform="translate(-32 -152.192)">
+    <path id="Path_829" data-name="Path 829" d="M492.515,6657.825l28.221,101.2c34.055-11.116,59.389-37.168,70.2-72.18Z" transform="translate(-277.838 -6364.098)" fill="#a0bbe2"/>
+    <path id="Path_830" data-name="Path 830" d="M541.482,6532.771l-48.949,94.659,100.224,29.553c12.424-49.7-7.879-98.877-51.275-124.212" transform="translate(-277.841 -6340.753)" fill="#76a1d5"/>
+    <path id="Path_831" data-name="Path 831" d="M488.415,6734.075l-30.229-108.393,51.489-99.57c-25.352-13.056-50.171-15.325-77.825-7.172-57.447,16.939-90.781,78.773-74.309,137.842,16.17,57.981,74.4,92.073,130.874,77.293" transform="translate(-251.855 -6337.283)" fill="#498bca"/>
+    <text id="_63_" data-name="63% " transform="translate(127.148 297.566)" fill="#fff" font-size="24" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">63% </tspan></text>
+    <text id="_22_" data-name="22%" transform="translate(242 276.94)" fill="#fff" font-size="24" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">22%</tspan></text>
+    <text id="_15_" data-name="15%" transform="translate(238.888 349.406)" fill="#fff" font-size="24" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">15%</tspan></text>
+    <text id="_" data-name=" " transform="translate(322.517 368.193)" fill="#2e2a26" font-size="8" font-family="ArialMT, Arial"><tspan x="0" y="0"> </tspan></text>
+    <path id="Path_2120" data-name="Path 2120" d="M2267,245.386h20.24V169.979" transform="translate(-1965)" fill="none" stroke="#76a1d5" stroke-width="1"/>
+    <path id="Path_2121" data-name="Path 2121" d="M2245.908,365.693h36.633v57" transform="translate(-1960.024 2.307)" fill="none" stroke="#a0bbe2" stroke-width="1"/>
+    <text id="Other_Developing_Countries" data-name="Other Developing Countries" transform="translate(32 432.5)" fill="#2e2a26" font-size="11" font-family="ArialMT, Arial"><tspan x="0" y="0">Other Developing Countries</tspan></text>
+    <text id="Developed_Countries" data-name="Developed Countries" transform="translate(270.737 162.192)" fill="#2e2a26" font-size="11" font-family="ArialMT, Arial"><tspan x="0" y="0">Developed Countries</tspan></text>
+    <text id="Countries_in_Special_Situation_LDCs_LLDCs_SIDs_" data-name="Countries in Special Situation 
+(LDCs, LLDCs, SIDs)" transform="translate(234.599 441.787)" fill="#2e2a26" font-size="11" font-family="ArialMT, Arial"><tspan x="0" y="0">Countries in Special Situation </tspan><tspan x="0" y="14">(LDCs, LLDCs, SIDs)</tspan></text>
+    <path id="Path_2122" data-name="Path 2122" d="M2056.189,415V289.913h13.1" transform="translate(-1965)" fill="none" stroke="#498bca" stroke-width="1"/>
+  </g>
+</svg>
