@@ -938,6 +938,13 @@ footer {
   font-weight: bold;
 }
 @media (min-width: 992px) {
+  .hero-pilar .linhas {
+    position: absolute;
+    bottom: -60px;
+    right: 0;
+    z-index: 2;
+    width: 60%;
+  }
   .hero-pilar .container {
     min-height: calc(100vh - 90px);
   }

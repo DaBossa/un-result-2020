@@ -7,6 +7,7 @@ $page_class = "unosat";
 include('header.php');
 ?>
         <section class="hero-pilar bg-<?php echo $page_class ?>">
+            <div class="linhas"><img src="assets/images/pilar-hero-linhas.png" class="reveal"></div>
             <div class="bg">
                 <img src="assets/images/hero-pilar-<?php echo $page_class ?>.jpg" alt="<?php echo $titulo ?>" class="reveal r-scale-out">
             </div>
@@ -100,8 +101,8 @@ include('header.php');
                         <div class="hl-item">
                             <img class="reveal r-bottom" src="assets/images/pilar-<?php echo $page_class ?>-icon-hl-02.svg" alt="">
                             <div class="content reveal">
-                                <p>For example, we supported emergency planning and response activities following the oil spill off the coast of Mauritius in August and in Vietnam after Tropical Cyclone MOLDAVE made landfall in October.</p>
-                                <p>We also delivered trainings to enhance government officials’ capacities on GIT applications for DRR in Mozambique and Uganda, both countries that had requested the activation of UNOSAT’s emergency mapping service the year before.</p>
+                                <p>For example, <strong>we supported emergency planning and response activities following the oil spill off the coast of Mauritius</strong> in August and in <strong>Vietnam after Tropical Cyclone MOLDAVE</strong> made landfall in October.</p>
+                                <p>We also <strong>delivered trainings to enhance government officials’ capacities on GIT applications for DRR in Mozambique and Uganda</strong>, both countries that had requested the activation of UNOSAT’s emergency mapping service the year before.</p>
                             </div>
                         </div>
                         <div class="hl-item align-items-center">
@@ -130,13 +131,13 @@ include('header.php');
                     <div class="col-8 col-md-5 col-img">
                         <div class="image image-1">
                             <i class="reveal"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 671.31 751.31"><path d="M514,750,82,688,1,289,228,126H587l-1,396Z" style="fill:none;stroke:#fff;"/><path d="M161,1,590.65,61.65,670,461,442,626H86V228Z" style="fill:none;stroke:#fff;"/></svg></i>
-                            <img class="reveal r-scale-out" src="assets/images/pilar-<?php echo $page_class ?>-depoimento-01.jpg" alt="Vibeke Oestreich Nielsen - USA">
+                            <img class="reveal r-scale-out" src="assets/images/pilar-<?php echo $page_class ?>-depoimento-01.jpg" alt="George Baragamu - Solomon Islands">
                         </div>
                     </div>
                     <div class="col-md-7 content">
-                        <p><strong>“Many of the statistics offices have developed very interesting materials and e-learning courses that probably would not have been widely known if we didn’t have a portal like that.”</strong></p>
-                        <h3>Vibeke Oestreich Nielsen</h3>
-                        <h4>USA</h4>
+                        <p><strong>“The [UNOSAT] officer supporting us from the project is a local, so the context of the country is well understood.”</strong></p>
+                        <h3>George Baragamu</h3>
+                        <h4>Solomon Islands</h4>
                     </div>
                 </div>
             </div>

@@ -7,6 +7,7 @@ $page_class = "peace";
 include('header.php');
 ?>
         <section class="hero-pilar bg-<?php echo $page_class ?>">
+            <div class="linhas"><img src="assets/images/pilar-hero-linhas.png" class="reveal"></div>
             <div class="bg">
                 <img src="assets/images/hero-pilar-<?php echo $page_class ?>.jpg" alt="<?php echo $titulo ?>" class="reveal r-scale-out">
             </div>
@@ -53,15 +54,15 @@ include('header.php');
                         <i class="reveal r-scale-out"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 127.65 127.65"><path d="M123.4,0H4.26A4.26,4.26,0,0,0,0,4.26V8.51a4.27,4.27,0,0,0,4.26,4.26H6.38v8.59H6.3a2.1,2.1,0,0,0-1.82,1.17L.22,31,4,32.94l2.35-4.7v7.93h4.26v-8L13,32.94l3.83-1.88-4.26-8.59a2.13,2.13,0,0,0-1.91-1.2V12.76h17V40L14.14,72.84a4.25,4.25,0,0,0,3.93,5.87h9.59v8.51A19.16,19.16,0,0,0,46.8,106.37h6.39v17a4.25,4.25,0,0,0,4.25,4.26H100a4.26,4.26,0,0,0,4.26-4.26l0-21.55a14.76,14.76,0,0,0,4.21-10.36V12.76h14.89a4.25,4.25,0,0,0,4.26-4.25h0V4.25A4.25,4.25,0,0,0,123.4,0ZM104.25,91.48a10.59,10.59,0,0,1-3,7.4,4.31,4.31,0,0,0-1.25,3V123.4H57.44v-17a4.25,4.25,0,0,0-4.25-4.26H46.81a14.91,14.91,0,0,1-14.9-14.89V76.59a2.13,2.13,0,0,0-2.12-2.13H18.07L31.22,42.55h73Zm0-53.18H31.91V12.77h72.34ZM4.26,8.51V4.25H123.4V8.51Z"/><path d="M40.42,61.7a8.51,8.51,0,0,0,8.51-8.51H44.67a4.26,4.26,0,0,1-8.51,0H31.91a8.51,8.51,0,0,0,8.51,8.51Z"/></svg></i>
                         <ul class="items-numbers">
                             <li class="data-learning-events reveal r-right reveal r-right" data-info="162">
-                                <h4>162</h4>
+                                <h4>307</h4>
                                 <h5 class="reveal">Learning events</h5>
                             </li>
                             <li class="data-learners reveal r-right" data-info="13741">
-                                <h4>13,741</h4>
+                                <h4>27,070</h4>
                                 <h5 class="reveal">Learners</h5>
                             </li>
                             <li class="data-certificates reveal r-right" data-info="2603">
-                                <h4>2,603</h4>
+                                <h4>19,060</h4>
                                 <h5 class="reveal">Certificates</h5>
                             </li>
                         </ul>

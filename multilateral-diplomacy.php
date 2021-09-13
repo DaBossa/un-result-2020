@@ -7,6 +7,7 @@ $page_class = "multilateral-diplomacy";
 include('header.php');
 ?>
         <section class="hero-pilar bg-<?php echo $page_class ?>">
+            <div class="linhas"><img src="assets/images/pilar-hero-linhas.png" class="reveal"></div>
             <div class="bg">
                 <img src="assets/images/hero-pilar-<?php echo $page_class ?>.jpg" alt="<?php echo $titulo ?>" class="reveal r-scale-out">
             </div>
