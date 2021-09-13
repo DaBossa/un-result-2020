@@ -30,7 +30,7 @@
             </div>
         </div>
     </footer>
-
+    <a id="scroll-top" class="btn icon btn-gotop i-seta i-seta-top reveal" target="_blank"><span>Scroll to top</span><i></i></a>
     <script type="text/javascript" src="/assets/js/jquery-3.4.1.min.js"></script>
     <script src="/assets/js/bootstrap.min.js"></script>
     <script type="text/javascript" src="/assets/js/scripts.js"></script>

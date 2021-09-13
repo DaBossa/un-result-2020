@@ -83,7 +83,7 @@
         <div class="container">
             <div class="row align-items-center">
             <a class="navbar" href="/"><img src="assets/images/logo-unitar.svg" alt="Unitar | United Nations Institute for Training and Research"></a>
-                <nav class="navbar navbar-inverse bg-inverse navbar-expand-lg ml-auto" id="header-navbar">
+                <nav class="navbar navbar-inverse bg-inverse navbar-expand-xxl ml-auto" id="header-navbar">
                     <button class="ml-auto navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
                     <div class="collapse navbar-collapse" id="navbarSupportedContent">
                         <ul class="navbar-nav ml-auto">
@@ -92,6 +92,9 @@
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link goto" href="/#primary-output">Primary Output</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link goto" href="/#covid-19-crisis">Our Response to the COVID-19 Crisis</a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link goto" href="/#partnerships">Partnerships</a>

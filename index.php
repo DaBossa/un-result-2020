@@ -8,7 +8,12 @@ include('header.php');
         <div class="hero-foreword text-white">
             <div class="bg reveal r-top"></div>
             <section class="hero">
-                <div class="bg reveal r-right"></div>
+                <div class="bg">
+                    <video preload="auto" autoplay="" loop="" muted="" playsinline="" loading="lazy">
+                        <source src="assets/images/home-hero-bg-new.mp4" type="video/mp4">
+                        Sorry, your browser does not support HTML5 video.
+                    </video>
+                </div>
                 <div class="container d-flex align-items-end">
                     <div class="row">
                         <div class="col-6 col-md-4 col-lg-4 offset-1 reveal">
@@ -99,7 +104,11 @@ include('header.php');
                         <h3 class="h3 reveal">Beneficiaries by Strategic Objectives</h3>
                     </div>
                     <div class="w-100"></div>
-                    <div class="col-11 col-lg-9 text-center mx-auto mt-5 pt-lg-5">
+                    <div class="col-11 col-md-8 col-lg-6 mx-auto">
+                        <p class="reveal">The majority of our beneficiaries were associated with programming related to the advancement of environmental sustainability and green development, and people and social inclusion.</p>
+                    </div>
+                    <div class="w-100"></div>
+                    <div class="col-11 col-md-10 col-lg-9 col-xl-6 text-center mx-auto mt-5 pt-lg-5">
                         <div class="d-md-none reveal">
                             <?php //include('assets/images/grafico-2-mobile.svg'); ?>
                             <img src="assets/images/g/m/grafico_3.svg" alt="">
@@ -108,10 +117,6 @@ include('header.php');
                             <?php include('assets/images/g/Grafico_3.svg'); ?>
                             <!-- <img src="assets/images/g/Grafico_3.svg" alt=""> -->
                         </div>
-                    </div>
-                    <div class="w-100 pt-lg-5 pb-md-5 mb-5"></div>
-                    <div class="col-11 col-md-8 col-lg-6 mx-auto">
-                        <p class="reveal">The majority of our beneficiaries were associated with programming related to the advancement of environmental sustainability and green development, and people and social inclusion.</p>
                     </div>
                 </div>
             </div>
@@ -146,7 +151,7 @@ include('header.php');
                             <img src="assets/images/g/m/grafico_5.svg" alt="">
                         </div>
                         <div class="col-11 mx-auto mt-3">
-                            <p class="reveal"><strong>79% of our learning-related beneficiaries came from developing countries, and 15% from countries in special situations - comprised of the least-developed countries (LDCs), the landlocked developing countries (LLDCs) and the small island developing States (SIDS).</strong></p>
+                            <p class="reveal"><strong>78% of our learning-related beneficiaries came from developing countries, of which 15% are least-developed countries (LDCs), landlocked developing countries (LLDCs) and small island developing States (SIDS).</strong></p>
                         </div>
                     </div>
                     <div class="row d-none d-md-flex align-items-center">
@@ -155,7 +160,7 @@ include('header.php');
                             <!-- <img src="assets/images/g/Grafico_5.svg" alt=""> -->
                         </div>
                         <div class="col-6 col-lg-4">
-                            <p class="reveal"><strong>79% of our learning-related beneficiaries came from developing countries, and 15% from countries in special situations - comprised of the least-developed countries (LDCs), the landlocked developing countries (LLDCs) and the small island developing States (SIDS).</strong></p>
+                            <p class="reveal"><strong>78% of our learning-related beneficiaries came from developing countries, of which 15% are least-developed countries (LDCs), landlocked developing countries (LLDCs) and small island developing States (SIDS).</strong></p>
                         </div>
                     </div>
                 </div>
@@ -207,7 +212,7 @@ include('header.php');
                 </div>
             </div>
         </section>
-        <section class="embed-covid">
+        <section id="covid-19-crisis" class="embed-covid">
             <div class="bg bg-top-esquerda reveal r-left">
                 <img src="assets/images/home-linhas-top-esquerda.png" alt="">
             </div>
@@ -305,7 +310,7 @@ include('header.php');
                 </div>
             </div>
         </section>
-        <section class="bg-ncd home-pilar text-light mb-2">
+        <section class="bg-ncd home-pilar text-light">
             <div class="container">
                 <div class="row px-3 px-md-0">
                     <div class="col-6 col-md-3 offset-lg-1 px-xl-5 reveal r-scale-out">
@@ -318,27 +323,24 @@ include('header.php');
                 </div>
             </div>
         </section>
-        <section id="partnerships" class="bg-partnerships home-pilar text-light">
-            <div class="container">
-                <div class="row align-items-center px-3 px-md-0">
-                    <div class="col-8 col-md-4 px-lg-5 offset-lg-1">
+        <section id="partnerships" class="bg-partnerships-2 bg-light">
+            <div class="divider linhas linhas-direita d-none d-md-block">
+                <img src="assets/images/linhas-direita.png" alt="">
+            </div>
+            <div class="container bg-white">
+                <div class="row">
+                    <div class="col-8 col-md-4 px-lg-5 offset-md-1">
                         <div class="image image-1">
-                            <i class="reveal r-scale-out"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 671.31 751.31"><path d="M514,750,82,688,1,289,228,126H587l-1,396Z" style="fill:none;stroke:#fff;"/><path d="M161,1,590.65,61.65,670,461,442,626H86V228Z" style="fill:none;stroke:#fff;"/></svg></i>
+                            <i class="reveal r-scale-out"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 671.31 751.31"><path d="M514,750,82,688,1,289,228,126H587l-1,396Z" style="fill:none;stroke:#5E8BC5;"/><path d="M161,1,590.65,61.65,670,461,442,626H86V228Z" style="fill:none;stroke:#5E8BC5;"/></svg></i>
                             <img src="assets/images/home-img-parceiros.jpg" alt="Partnerships - A Key Pillar to Programming" class="reveal r-scale-out">
                         </div>
                     </div>
-                    <div class="col-12 col-md-8 col-lg-5 mt-4 mt-md-0 px-lg-5">
-                        <h2 class="h2 text-light reveal">Partnerships</h2>
-                        <h3 class="h3 text-light font-weight-normal reveal">A Key Pillar to Programming</h3>
+                    <div class="col-11 col-md-6 col-lg-5 mt-4 mt-md-0 px-xl-5 mx-auto mx-md-0">
+                        <h2 class="h2 reveal">Partnerships</h2>
+                        <h3 class="h3 font-weight-normal reveal">A Key Pillar to Programming</h3>
                         <p class="reveal">Partnerships continue to be an integral part of UNITAR’s approach to achieving effective and efficient results. They allow us to combine the expertise of UN and other partners with our internal expertise in programming, adult learning and instructional technologies.</p>
                     </div>
-                </div>
-            </div>
-        </section>
-        <div class="s-divider bg-partnerships"></div>
-        <section class="bg-partnerships-2 bg-light">
-            <div class="container bg-white">
-                <div class="row">
+                    <div class="w-100 py-5 my-md-2 my-xl-5"></div>
                     <div class="col-11 col-md-9 col-lg-7 mx-auto">
                         <h3 class="h3 reveal">Beneficiaries by partnership</h3>
                         <p class="reveal">Of the Institute’s 896 events in 2020, 88% of 2020 beneficiaries were trained through events implemented in partnership.</p>
@@ -354,8 +356,8 @@ include('header.php');
                     </div>
                     <div class="w-100 my-lg-5"></div>
                     <div class="col-11 col-md-9 col-lg-7 mx-auto">
-                        <h3 class="h3 reveal">Beneficiaries by partnership</h3>
-                        <p class="reveal">Of the Institute’s 896 events in 2020, 88% of 2020 beneficiaries were trained through events implemented in partnership.</p>
+                        <h3 class="h3 reveal">Partners by Type</h3>
+                        <p class="reveal">Partners include organizations as diverse as UN entities, governments, universities, other international organizations, the private sector, NGOs and foundations.</p>
                     </div>
                     <div class="w-100"></div>
                     <div class="col-11 col-md-9 col-lg-7 mt-5 mx-auto d-md-none reveal">

@@ -62,7 +62,6 @@ $(window).on("load", function() {
 
     setTimeout(function(){
         ScrollReveal().reveal('.reveal', {
-            interval: 150,
             delay: 500,
             viewFactor: 0.3,
             //mobile: false
