@@ -903,6 +903,10 @@ body.bg-partnerships .depoimento.bg-light::before {
   width: 33px;
   height: 33px;
   border-radius: 100px;
+  transition: all 0.3s ease-in-out;
+}
+.pre-footer .btn-2:hover i {
+  background-color: #313D5E;
 }
 .pre-footer .btn-2 i::after {
   content: '';
@@ -913,15 +917,28 @@ body.bg-partnerships .depoimento.bg-light::before {
   width: 15px;
   height: 15px;
   transform: rotate(45deg) translate(1px, -1px);
+  transition: all 0.3s ease-in-out;
+}
+.pre-footer .btn-2:hover i::after {
+  border-color: #fff
 }
 .pre-footer .btn.icon {
   color: #4D8CCA;
+  transition: all 0.3s ease-in-out;
+}
+.pre-footer .btn.icon:hover {
+  background-color: #313D5E;
+  color: #fff;
 }
 .pre-footer .btn.icon i {
   margin-left: 15px;
 }
 .pre-footer .btn.icon i svg path {
   fill: #4D8CCA;
+  transition: all 0.3s ease-in-out;
+}
+.pre-footer .btn.icon:hover i svg path {
+  fill: #fff;
 }
 @media (min-width: 992px) {
   .pre-footer .btn-2 {
