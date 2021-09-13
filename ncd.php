@@ -110,8 +110,15 @@ include('header.php');
                     </div>
                     <div class="col-md-7 content">
                         <p><strong>“There is currently no nationwide electronic medical registration system at community township-level in Myanmar. Introducing this would be extremely beneficial to trace and control NCDs. To be effective this must not be a parallel effort, but instead interoperable with existing mechanisms and integrate with health management information systems.”</strong></p>
-                        <h3>Dr Kyaw Kan Kaung</h3>
-                        <h4>Myanmar</h4>
+                        <div class="row align-items-end">
+                            <div class="col-9">
+                                <h3>Dr Kyaw Kan Kaung</h3>
+                                <h4>Myanmar</h4>
+                            </div>
+                            <div class="col-3 d-flex justify-content-end">
+                                <a href="download/unitar_results_report_2020.pdf#page=58" class="btn icon i-seta i-seta-direita color-<?php echo $page_class ?>" target="_blank"><span>Read more</span></a>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>

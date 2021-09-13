@@ -144,8 +144,15 @@ include('header.php');
                     </div>
                     <div class="col-md-7 content">
                         <p><strong>“My experience with UNITAR has been great and I honestly think UNITAR is playing a very unique role giving training and advocacy on the implementation of the 2030 Agenda.”</strong></p>
-                        <h3>Paloma Durán</h3>
-                        <h4>USA/Spain</h4>
+                        <div class="row align-items-end">
+                            <div class="col-9">
+                                <h3>Paloma Durán</h3>
+                                <h4>USA/Spain</h4>
+                            </div>
+                            <div class="col-3 d-flex justify-content-end">
+                                <a href="download/unitar_results_report_2020.pdf#page=44" class="btn icon i-seta i-seta-direita color-<?php echo $page_class ?>" target="_blank"><span>Read more</span></a>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -162,8 +169,15 @@ include('header.php');
                     </div>
                     <div class="col-md-7 content">
                         <p><strong>“As a student, it is not common to come across professionals who work in the UN System. This was an opportunity to interact with many of them! It turned out to be the best investment I ever made.”</strong></p>
-                        <h3>Michael Chiribau</h3>
-                        <h4>Canada</h4>
+                        <div class="row align-items-end">
+                            <div class="col-9">
+                                <h3>Michael Chiribau</h3>
+                                <h4>Canada</h4>
+                            </div>
+                            <div class="col-3 d-flex justify-content-end">
+                                <a href="download/unitar_results_report_2020.pdf#page=46" class="btn icon i-seta i-seta-direita bg-<?php echo $page_class ?> text-white" target="_blank"><span class="bg-<?php echo $page_class ?>">Read more</span></a>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>

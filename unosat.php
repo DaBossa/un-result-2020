@@ -136,8 +136,15 @@ include('header.php');
                     </div>
                     <div class="col-md-7 content">
                         <p><strong>“The [UNOSAT] officer supporting us from the project is a local, so the context of the country is well understood.”</strong></p>
-                        <h3>George Baragamu</h3>
-                        <h4>Solomon Islands</h4>
+                        <div class="row align-items-end">
+                            <div class="col-9">
+                                <h3>George Baragamu</h3>
+                                <h4>Solomon Islands</h4>
+                            </div>
+                            <div class="col-3 d-flex justify-content-end">
+                                <a href="download/unitar_results_report_2020.pdf#page=54" class="btn icon i-seta i-seta-direita color-<?php echo $page_class ?>" target="_blank"><span>Read more</span></a>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>

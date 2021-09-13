@@ -199,6 +199,9 @@ nav.navbar .navbar-collapse > .btn i svg path {
   .navbar-expand-xxl .navbar-toggler {
     display: none;
   }
+  .navbar-expand-xxl .navbar-nav .dropdown-menu {
+    position: absolute;
+  }
   nav.navbar .navbar-nav .nav-link {
     padding-right: 20px;
     padding-left: 20px;
@@ -337,6 +340,39 @@ body.bg-partnerships .depoimento.bg-light::before {
 .color-partnerships {
   color: #4D8CCA!important;
 }
+
+.depoimento .btn[class*="bg-"]::after {
+  border-color: #fff!important;
+}
+
+.depoimento.bg-people .btn::after {
+  border-color: #7771B1!important;
+}
+.depoimento.bg-unosat .btn::after {
+  border-color: #D53216!important;
+}
+.depoimento.bg-agenda .btn::after {
+  border-color: #313D5E!important;
+}
+.depoimento.bg-peace .btn::after {
+  border-color: #63C3EF!important;
+}
+.depoimento.bg-planet .btn::after {
+  border-color: #219E45!important;
+}
+.depoimento.bg-prosperity .btn::after {
+  border-color: #F09300!important;
+}
+.depoimento.bg-multilateral-diplomacy .btn::after {
+  border-color: #B81371!important;
+}
+.depoimento.bg-ncd .btn::after {
+  border-color: #1F7129!important;
+}
+.depoimento.bg-partnerships .btn::after {
+  border-color: #4D8CCA!important;
+}
+
 
 
 .fill-people svg path {
@@ -587,9 +623,51 @@ body.bg-partnerships .depoimento.bg-light::before {
 .hero-foreword .perfil {
   font-size: 13px;
 }
-.hero-foreword .perfil .btn {
+.hero-foreword .perfil .btn,
+.depoimento .btn {
   font-size: 14px;
+  white-space: nowrap;
 }
+.depoimento .btn {
+  padding: 10px;
+  position: relative;
+}
+.depoimento .btn::after {
+  margin-left: 0!important;
+  transform: rotate(45deg) translate(-2px, 2px)!important;
+}
+.depoimento .btn span {
+  visibility: hidden;
+  opacity: 0;
+  line-height: 37px;
+  height: 37px;
+  position: absolute;
+  right: 0;
+  background: #fff;
+  border-radius: 100px;
+  padding: 0 40px 0 15px;
+  transition: all 0.3s ease-in-out;
+}
+.depoimento .btn:hover {
+  background-color: #fff;
+}
+.depoimento .btn:hover span {
+  visibility: visible;
+  opacity: 1;
+}
+@media (min-width: 1600px) {
+  .depoimento .btn {
+    padding: 15px;
+  }
+  .depoimento .btn span {
+    line-height: 47px;
+    height: 47px;
+    padding: 0 50px 0 20px;
+  }
+}
+
+
+
 .hero-foreword .perfil h3 {
   font-size: 20px;
 }
@@ -617,7 +695,8 @@ body.bg-partnerships .depoimento.bg-light::before {
   .hero-foreword .perfil {
     font-size: 14px;
   }
-  .hero-foreword .perfil .btn {
+  .hero-foreword .perfil .btn,
+  .depoimento .btn {
     font-size: 16px;
   }
   .hero-foreword .perfil h3 {
@@ -640,7 +719,8 @@ body.bg-partnerships .depoimento.bg-light::before {
   .hero-foreword .perfil {
     font-size: 18px;
   }
-  .hero-foreword .perfil .btn {
+  .hero-foreword .perfil .btn,
+  .depoimento .btn {
     font-size: 20px;
   }
   .hero-foreword .perfil h3 {
@@ -937,8 +1017,12 @@ footer {
   font-size: 20px;
   font-weight: bold;
 }
+.hero-pilar .linhas {
+  display: none;
+}
 @media (min-width: 992px) {
   .hero-pilar .linhas {
+    display: block;
     position: absolute;
     bottom: -60px;
     right: 0;

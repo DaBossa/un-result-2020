@@ -154,8 +154,15 @@ include('header.php');
                     </div>
                     <div class="col-md-7 content">
                         <p><strong>“The diversity of the participants was very important because it allowed different assessments to be made of the same situation, to put my own assessment in perspective, and to open new horizons.”</strong></p>
-                        <h3>Falmata Liman</h3>
-                        <h4>Senegal</h4>
+                        <div class="row align-items-end">
+                            <div class="col-9">
+                                <h3>Falmata Liman</h3>
+                                <h4>Senegal</h4>
+                            </div>
+                            <div class="col-3 d-flex justify-content-end">
+                                <a href="download/unitar_results_report_2020.pdf#page=18" class="btn icon i-seta i-seta-direita color-<?php echo $page_class ?>" target="_blank"><span>Read more</span></a>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -172,8 +179,15 @@ include('header.php');
                     </div>
                     <div class="col-md-7 content">
                         <p><strong>“People are used to trainings in which one arrives with a notebook and a pencil, sits down and takes notes, but the training offered by UNITAR was quite experiential. The facilitators shared their experiences with us and helped us build trust. This inspired us to share our own story and experiences without fear judgment.”</strong></p>
-                        <h3>Carmen Betancur</h3>
-                        <h4>Colombia</h4>
+                        <div class="row align-items-end">
+                            <div class="col-9">
+                                <h3>Carmen Betancur</h3>
+                                <h4>Colombia</h4>
+                            </div>
+                            <div class="col-3 d-flex justify-content-end">
+                                <a href="download/unitar_results_report_2020.pdf#page=20" class="btn icon i-seta i-seta-direita bg-<?php echo $page_class ?> text-white" target="_blank"><span class="bg-<?php echo $page_class ?>">Read more</span></a>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
