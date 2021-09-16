@@ -114,7 +114,7 @@
                             </li>
                         </ul>
                         <div class="navbar-spacer"></div>
-                        <a class="btn" href="/download/unitar_results_report_2020.pdf" target="_blank"><i><svg xmlns="http://www.w3.org/2000/svg" width="36.474" height="28.298" viewBox="0 0 36.474 28.298"><path d="M13951.332,637.3v-8.1h3.757v4.339h28.961V629.2h3.756v8.1Zm8.38-17.605,2.355-2.924,5.624,4.534V609h3.756v12.416l5.62-4.531,2.359,2.924-9.787,7.888Z" transform="translate(-13951.332 -609.001)" fill="#538dd7"/></svg></i></a>
+                        <a class="btn" href="https://www.unitar.org/sites/default/files/media/publication/doc/unitar_results_report_2020_web.pdf" target="_blank"><i><svg xmlns="http://www.w3.org/2000/svg" width="36.474" height="28.298" viewBox="0 0 36.474 28.298"><path d="M13951.332,637.3v-8.1h3.757v4.339h28.961V629.2h3.756v8.1Zm8.38-17.605,2.355-2.924,5.624,4.534V609h3.756v12.416l5.62-4.531,2.359,2.924-9.787,7.888Z" transform="translate(-13951.332 -609.001)" fill="#538dd7"/></svg></i></a>
                     </div>
                 </nav>
             </div>

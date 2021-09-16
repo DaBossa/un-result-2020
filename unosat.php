@@ -142,7 +142,7 @@ include('header.php');
                                 <h4>Solomon Islands</h4>
                             </div>
                             <div class="col-3 d-flex justify-content-end">
-                                <a href="download/unitar_results_report_2020.pdf#page=54" class="btn icon i-seta i-seta-direita color-<?php echo $page_class ?>" target="_blank"><span>Read more</span></a>
+                                <a href="https://www.unitar.org/sites/default/files/media/publication/doc/unitar_results_report_2020_web.pdf#page=54" class="btn icon i-seta i-seta-direita color-<?php echo $page_class ?>" target="_blank"><span>Read more</span></a>
                             </div>
                         </div>
                     </div>
