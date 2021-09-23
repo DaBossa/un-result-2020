@@ -472,6 +472,11 @@ body.bg-partnerships .depoimento.bg-light::before {
 }
 .text-white .btn:hover {
   background-color: #3A8DDE;
+  color: #fff;
+}
+.text-white .btn.i-seta:hover::before,
+.text-white .btn.i-seta:hover::after {
+  border-color: #fff;
 }
 .btn-2 {
   padding: 0;
