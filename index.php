@@ -48,7 +48,7 @@ include('header.php');
                                     <p>UNITAR Executive Director</p>
                                 </div>
                                 <div class="col-lg-12 col-xl-5 mt-lg-3 text-xl-right mt-xl-0 reveal">
-                                    <p><a href="https://www.unitar.org/sites/default/files/media/publication/doc/unitar_results_report_2020_web.pdf#page=3" class="btn icon i-seta i-seta-direita" target="_blank">Read more</a></p>
+                                    <p><a href="https://www.unitar.org/sites/default/files/media/publication/doc/unitar_results_report_2020_web.pdf#page=5" class="btn icon i-seta i-seta-direita" target="_blank">Read more</a></p>
                                 </div>
                             </div>
                         </div>
