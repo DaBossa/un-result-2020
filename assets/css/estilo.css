@@ -515,6 +515,10 @@ body.bg-partnerships .depoimento.bg-light::before {
   border-bottom: none;
   border-right: none;
 }
+.btn-gotop:hover i {
+  background-color: #313D5E;
+  box-shadow: 0 0 0 0.5px #313D5E;
+}
 .text-white .btn-2 {
   color: #fff;
 }
