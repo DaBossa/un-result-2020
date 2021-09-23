@@ -152,7 +152,7 @@ include('header.php');
                             <img class="reveal r-scale-out" src="assets/images/pilar-<?php echo $page_class ?>-depoimento-01.jpg" alt="Falmata Liman - Senegal">
                         </div>
                     </div>
-                    <div class="col-md-7 content">
+                    <div class="col-md-7 content reveal">
                         <p><strong>“The diversity of the participants was very important because it allowed different assessments to be made of the same situation, to put my own assessment in perspective, and to open new horizons.”</strong></p>
                         <div class="row align-items-end">
                             <div class="col-9">
@@ -160,7 +160,7 @@ include('header.php');
                                 <h4>Senegal</h4>
                             </div>
                             <div class="col-3 d-flex justify-content-end">
-                                <a href="https://www.unitar.org/sites/default/files/media/publication/doc/unitar_results_report_2020_web.pdf#page=18" class="btn icon i-seta i-seta-direita color-<?php echo $page_class ?>" target="_blank"><span>Read more</span></a>
+                                <a href="https://www.unitar.org/sites/default/files/media/publication/doc/unitar_results_report_2020_web.pdf#page=35" class="btn icon i-seta i-seta-direita color-<?php echo $page_class ?>" target="_blank"><span>Read more</span></a>
                             </div>
                         </div>
                     </div>
@@ -177,7 +177,7 @@ include('header.php');
                             <img class="reveal r-scale-out" src="assets/images/pilar-<?php echo $page_class ?>-depoimento-02.jpg" alt="Carmen Betancur - Colombia">
                         </div>
                     </div>
-                    <div class="col-md-7 content">
+                    <div class="col-md-7 content reveal">
                         <p><strong>“People are used to trainings in which one arrives with a notebook and a pencil, sits down and takes notes, but the training offered by UNITAR was quite experiential. The facilitators shared their experiences with us and helped us build trust. This inspired us to share our own story and experiences without fear judgment.”</strong></p>
                         <div class="row align-items-end">
                             <div class="col-9">
@@ -185,7 +185,7 @@ include('header.php');
                                 <h4>Colombia</h4>
                             </div>
                             <div class="col-3 d-flex justify-content-end">
-                                <a href="https://www.unitar.org/sites/default/files/media/publication/doc/unitar_results_report_2020_web.pdf#page=20" class="btn icon i-seta i-seta-direita bg-<?php echo $page_class ?> text-white" target="_blank"><span class="bg-<?php echo $page_class ?>">Read more</span></a>
+                                <a href="https://www.unitar.org/sites/default/files/media/publication/doc/unitar_results_report_2020_web.pdf#page=39" class="btn icon i-seta i-seta-direita bg-<?php echo $page_class ?> text-white" target="_blank"><span class="bg-<?php echo $page_class ?>">Read more</span></a>
                             </div>
                         </div>
                     </div>

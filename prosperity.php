@@ -137,7 +137,7 @@ include('header.php');
                             <img class="reveal r-scale-out" src="assets/images/pilar-<?php echo $page_class ?>-depoimento-01.jpg" alt="Hillary Mulindi - Kenya">
                         </div>
                     </div>
-                    <div class="col-md-7 content">
+                    <div class="col-md-7 content reveal">
                         <p><strong>“This UNITAR course was presented in a very clear manner. The discussions in the platform were very enriching and the tutors were actively responding to inquiries and sharing further knowledge. Additionally, I truly enjoyed the fact that I could take the course in a smartphone application gave me much flexibility.”</strong></p>
                         <div class="row align-items-end">
                             <div class="col-9">
@@ -145,7 +145,7 @@ include('header.php');
                                 <h4>Kenya</h4>
                             </div>
                             <div class="col-3 d-flex justify-content-end">
-                                <a href="https://www.unitar.org/sites/default/files/media/publication/doc/unitar_results_report_2020_web.pdf#page=37" class="btn icon i-seta i-seta-direita color-<?php echo $page_class ?>" target="_blank"><span>Read more</span></a>
+                                <a href="https://www.unitar.org/sites/default/files/media/publication/doc/unitar_results_report_2020_web.pdf#page=73" class="btn icon i-seta i-seta-direita color-<?php echo $page_class ?>" target="_blank"><span>Read more</span></a>
                             </div>
                         </div>
                     </div>
@@ -162,7 +162,7 @@ include('header.php');
                             <img class="reveal r-scale-out" src="assets/images/pilar-<?php echo $page_class ?>-depoimento-02.jpg" alt="Wongel Alemayehu Habtemariam - Ethiopia">
                         </div>
                     </div>
-                    <div class="col-md-7 content">
+                    <div class="col-md-7 content reveal">
                         <p><strong>“I always loved the idea of building a business whose main purpose is to support vulnerable people, but never really thought of different ways in which I could do it. I always thought it was an almost impossible thing to do, but the knowledge I gained from the programme showed me that it is actually possible and I could do it, so I felt very excited.”</strong></p>
                         <div class="row align-items-end">
                             <div class="col-9">
@@ -170,7 +170,7 @@ include('header.php');
                                 <h4>Ethiopia</h4>
                             </div>
                             <div class="col-3 d-flex justify-content-end">
-                                <a href="https://www.unitar.org/sites/default/files/media/publication/doc/unitar_results_report_2020_web.pdf#page=39" class="btn icon i-seta i-seta-direita bg-<?php echo $page_class ?> text-white" target="_blank"><span class="bg-<?php echo $page_class ?>">Read more</span></a>
+                                <a href="https://www.unitar.org/sites/default/files/media/publication/doc/unitar_results_report_2020_web.pdf#page=77" class="btn icon i-seta i-seta-direita bg-<?php echo $page_class ?> text-white" target="_blank"><span class="bg-<?php echo $page_class ?>">Read more</span></a>
                             </div>
                         </div>
                     </div>

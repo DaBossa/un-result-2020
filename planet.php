@@ -143,7 +143,7 @@ include('header.php');
                             <img class="reveal r-scale-out" src="assets/images/pilar-<?php echo $page_class ?>-depoimento-01.jpg" alt="Maurici Tadeu Ferreira Santos - Brazil">
                         </div>
                     </div>
-                    <div class="col-md-7 content">
+                    <div class="col-md-7 content reveal">
                         <p><strong>“The course addressed many questions that I had regarding climate change and its dimension, especially in a complex and multifactorial context. It led me to realize that I was wrong about anthropogenic variables, which certainly include my own daily actions, and that greenhouse emissions are not restricted to big cities and large industrial conglomerates as I initially thought. Certainly, they play the major role, but the course encouraged me to ask myself ‘what is my part in all this?”</strong></p>
                         <div class="row align-items-end">
                             <div class="col-9">
@@ -151,7 +151,7 @@ include('header.php');
                                 <h4>Brazil</h4>
                             </div>
                             <div class="col-3 d-flex justify-content-end">
-                                <a href="https://www.unitar.org/sites/default/files/media/publication/doc/unitar_results_report_2020_web.pdf#page=31" class="btn icon i-seta i-seta-direita color-<?php echo $page_class ?>" target="_blank"><span>Read more</span></a>
+                                <a href="https://www.unitar.org/sites/default/files/media/publication/doc/unitar_results_report_2020_web.pdf#page=61" class="btn icon i-seta i-seta-direita color-<?php echo $page_class ?>" target="_blank"><span>Read more</span></a>
                             </div>
                         </div>
                     </div>
@@ -168,7 +168,7 @@ include('header.php');
                             <img class="reveal r-scale-out" src="assets/images/pilar-<?php echo $page_class ?>-depoimento-02.jpg" alt="Kafui Korshiwor Boni - Ghana">
                         </div>
                     </div>
-                    <div class="col-md-7 content">
+                    <div class="col-md-7 content reveal">
                         <p><strong>“We do an evaluation of chemicals and there are documents that the industries submit to be able to import chemicals. What I learned during the course made me have a better understanding of the information the industry submit.”</strong></p>
                         <div class="row align-items-end">
                             <div class="col-9">
@@ -176,7 +176,7 @@ include('header.php');
                                 <h4>Ghana</h4>
                             </div>
                             <div class="col-3 d-flex justify-content-end">
-                                <a href="https://www.unitar.org/sites/default/files/media/publication/doc/unitar_results_report_2020_web.pdf#page=33" class="btn icon i-seta i-seta-direita bg-<?php echo $page_class ?> text-white" target="_blank"><span class="bg-<?php echo $page_class ?>">Read more</span></a>
+                                <a href="https://www.unitar.org/sites/default/files/media/publication/doc/unitar_results_report_2020_web.pdf#page=65" class="btn icon i-seta i-seta-direita bg-<?php echo $page_class ?> text-white" target="_blank"><span class="bg-<?php echo $page_class ?>">Read more</span></a>
                             </div>
                         </div>
                     </div>

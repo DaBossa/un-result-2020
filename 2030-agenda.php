@@ -126,7 +126,7 @@ include('header.php');
                             <img class="reveal r-scale-out" src="assets/images/pilar-<?php echo $page_class ?>-depoimento-01.jpg" alt="Vibeke Oestreich Nielsen - USA">
                         </div>
                     </div>
-                    <div class="col-md-7 content">
+                    <div class="col-md-7 content reveal">
                         <p><strong>“Many of the statistics offices have developed very interesting materials and e-learning courses that probably would not have been widely known if we didn’t have a portal like that.”</strong></p>
                         <div class="row align-items-end">
                             <div class="col-9">
@@ -134,7 +134,7 @@ include('header.php');
                                 <h4>USA</h4>
                             </div>
                             <div class="col-3 d-flex justify-content-end">
-                                <a href="https://www.unitar.org/sites/default/files/media/publication/doc/unitar_results_report_2020_web.pdf#page=50" class="btn icon i-seta i-seta-direita color-<?php echo $page_class ?>" target="_blank"><span>Read more</span></a>
+                                <a href="https://www.unitar.org/sites/default/files/media/publication/doc/unitar_results_report_2020_web.pdf#page=99" class="btn icon i-seta i-seta-direita color-<?php echo $page_class ?>" target="_blank"><span>Read more</span></a>
                             </div>
                         </div>
                     </div>

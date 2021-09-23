@@ -35,7 +35,7 @@ include('header.php');
                                     <h3>Nikhil Seth</h3>
                                     <p class="m-0">United Nations Assistant Secretary-General</p>
                                     <p>UNITAR Executive Director</p>
-                                    <p><a href="https://www.unitar.org/sites/default/files/media/publication/doc/unitar_results_report_2020_web.pdf#page=3" class="btn icon i-seta i-seta-direita" target="_blank">Read more</a></p>
+                                    <p><a href="https://www.unitar.org/sites/default/files/media/publication/doc/unitar_results_report_2020_web.pdf#page=5" class="btn icon i-seta i-seta-direita" target="_blank">Read more</a></p>
                                 </div>
                             </div>
                         </div>

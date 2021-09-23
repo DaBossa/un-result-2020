@@ -134,7 +134,7 @@ include('header.php');
                             <img class="reveal r-scale-out" src="assets/images/pilar-<?php echo $page_class ?>-depoimento-01.jpg" alt="George Baragamu - Solomon Islands">
                         </div>
                     </div>
-                    <div class="col-md-7 content">
+                    <div class="col-md-7 content reveal">
                         <p><strong>“The [UNOSAT] officer supporting us from the project is a local, so the context of the country is well understood.”</strong></p>
                         <div class="row align-items-end">
                             <div class="col-9">
@@ -142,7 +142,7 @@ include('header.php');
                                 <h4>Solomon Islands</h4>
                             </div>
                             <div class="col-3 d-flex justify-content-end">
-                                <a href="https://www.unitar.org/sites/default/files/media/publication/doc/unitar_results_report_2020_web.pdf#page=54" class="btn icon i-seta i-seta-direita color-<?php echo $page_class ?>" target="_blank"><span>Read more</span></a>
+                                <a href="https://www.unitar.org/sites/default/files/media/publication/doc/unitar_results_report_2020_web.pdf#page=107" class="btn icon i-seta i-seta-direita color-<?php echo $page_class ?>" target="_blank"><span>Read more</span></a>
                             </div>
                         </div>
                     </div>

@@ -145,7 +145,7 @@ include('header.php');
                             <img class="reveal r-scale-out" src="assets/images/pilar-<?php echo $page_class ?>-depoimento-01.jpg" alt="Ana-ana Nadum Patricia - Nigeria">
                         </div>
                     </div>
-                    <div class="col-md-7 content">
+                    <div class="col-md-7 content reveal">
                         <p><strong>“The workshop made me see the need to diversify as an entrepreneur instead of focusing only on a private school teaching work, which earned me less. I have now decided to spend more time attending to my fish farm since the opportunities for increased livelihood are higher in agribusiness.”</strong></p>
                         <div class="row align-items-end">
                             <div class="col-9">
@@ -153,7 +153,7 @@ include('header.php');
                                 <h4>Nigeria</h4>
                             </div>
                             <div class="col-3 d-flex justify-content-end">
-                                <a href="https://www.unitar.org/sites/default/files/media/publication/doc/unitar_results_report_2020_web.pdf#page=24" class="btn icon i-seta i-seta-direita color-<?php echo $page_class ?>" target="_blank"><span>Read more</span></a>
+                                <a href="https://www.unitar.org/sites/default/files/media/publication/doc/unitar_results_report_2020_web.pdf#page=47" class="btn icon i-seta i-seta-direita color-<?php echo $page_class ?>" target="_blank"><span>Read more</span></a>
                             </div>
                         </div>
                     </div>
@@ -170,7 +170,7 @@ include('header.php');
                             <img class="reveal r-scale-out" src="assets/images/pilar-<?php echo $page_class ?>-depoimento-02.jpg" alt="Sanjaya Bhatia - Republic of Korea">
                         </div>
                     </div>
-                    <div class="col-md-7 content">
+                    <div class="col-md-7 content reveal">
                         <p><strong>“Together we developed a training programme on DRR focused on local government named ‘Making Cities Resilient: Developing Local Disaster Risk Reduction and Resilience Strategies’, which was launched in that same year. As time progressed, we converted the training into an online and self-paced course and also developed and launched its Spanish version.”</strong></p>
                         <div class="row align-items-end">
                             <div class="col-9">
@@ -178,7 +178,7 @@ include('header.php');
                                 <h4>Republic of Korea</h4>
                             </div>
                             <div class="col-3 d-flex justify-content-end">
-                                <a href="https://www.unitar.org/sites/default/files/media/publication/doc/unitar_results_report_2020_web.pdf#page=26" class="btn icon i-seta i-seta-direita bg-<?php echo $page_class ?> text-white" target="_blank"><span class="bg-<?php echo $page_class ?>">Read more</span></a>
+                                <a href="https://www.unitar.org/sites/default/files/media/publication/doc/unitar_results_report_2020_web.pdf#page=51" class="btn icon i-seta i-seta-direita bg-<?php echo $page_class ?> text-white" target="_blank"><span class="bg-<?php echo $page_class ?>">Read more</span></a>
                             </div>
                         </div>
                     </div>
